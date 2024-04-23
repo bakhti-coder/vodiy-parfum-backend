@@ -1,0 +1,3266 @@
+[
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "62e52b4a967f3022a2532d7c",
+    "title": "Persil (33)",
+    "price": 52500,
+    "description": "Turkya ",
+    "image": {
+      "public_id": "test/jnwbs5koo7wshahjg5jx",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1659185926/test/jnwbs5koo7wshahjg5jx.jpg"
+    },
+    "quantity": 700,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-07-30T12:59:54.861Z",
+    "updatedAt": "2022-07-30T12:59:54.861Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "62e52ab6967f3022a2532d73",
+    "title": "Persil (66)",
+    "price": 99000,
+    "description": "Turkya",
+    "image": {
+      "public_id": "test/jjuoozt3oppbw7cksgyr",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1659185738/test/jjuoozt3oppbw7cksgyr.jpg"
+    },
+    "quantity": 560,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-07-30T12:57:26.903Z",
+    "updatedAt": "2022-07-30T12:57:26.903Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "62e527c6967f3022a2532d30",
+    "title": "PANTENE 530ml",
+    "price": 71000,
+    "description": "USA",
+    "image": {
+      "public_id": "test/jqzclbpnpbaotbxuwqn4",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1659184969/test/jqzclbpnpbaotbxuwqn4.jpg"
+    },
+    "quantity": 24,
+    "category": "61f504093a1b1320b1c6b6f1",
+    "createdAt": "2022-07-30T12:44:54.148Z",
+    "updatedAt": "2022-07-30T12:44:54.148Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 5,
+    "_id": "62e4dc68967f3022a2532bd8",
+    "title": "CLEAR 600ml",
+    "price": 45500,
+    "description": "Turkya",
+    "image": {
+      "public_id": "test/ehb2wiidjhp9n51dgoae",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1659165692/test/ehb2wiidjhp9n51dgoae.jpg"
+    },
+    "quantity": 75,
+    "category": "61f504093a1b1320b1c6b6f1",
+    "createdAt": "2022-07-30T07:23:20.944Z",
+    "updatedAt": "2022-07-30T08:57:14.724Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 5,
+    "_id": "62e4bf68967f3022a2532b51",
+    "title": "SHAMTU",
+    "price": 18000,
+    "description": "rossya",
+    "image": {
+      "public_id": "test/rbfjb7kecjwp2lqi7blm",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1659158309/test/rbfjb7kecjwp2lqi7blm.jpg"
+    },
+    "quantity": 115,
+    "category": "61f504093a1b1320b1c6b6f1",
+    "createdAt": "2022-07-30T05:19:36.582Z",
+    "updatedAt": "2022-07-30T08:57:14.724Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 5,
+    "_id": "62e4a21f967f3022a2532ae1",
+    "title": "head&shoulders",
+    "price": 73000,
+    "description": "Turkya",
+    "image": {
+      "public_id": "test/c3lb2e0oweju8njhe2kt",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1659150851/test/c3lb2e0oweju8njhe2kt.jpg"
+    },
+    "quantity": 23,
+    "category": "61f504093a1b1320b1c6b6f1",
+    "createdAt": "2022-07-30T03:14:39.713Z",
+    "updatedAt": "2022-07-30T08:57:14.724Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "62e425d4967f3022a253297b",
+    "title": "Ariel 12kg",
+    "price": 195000,
+    "description": "Turkya ",
+    "image": {
+      "public_id": "test/ygypcapqk5gbara8ol0g",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1659119037/test/ygypcapqk5gbara8ol0g.jpg"
+    },
+    "quantity": 20,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-07-29T18:24:20.318Z",
+    "updatedAt": "2022-07-29T18:24:20.318Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "62e41ed4967f3022a2532863",
+    "title": "Персил 10кг",
+    "price": 149000,
+    "description": "Турция ",
+    "image": {
+      "public_id": "test/jvzkaxn3ca5qvrtpwnx7",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1659117215/test/jvzkaxn3ca5qvrtpwnx7.jpg"
+    },
+    "quantity": 20,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-07-29T17:54:28.474Z",
+    "updatedAt": "2022-07-29T17:54:28.474Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "62906de4f5393ad4732ae774",
+    "title": "Splat",
+    "price": 19000,
+    "description": "100 ml",
+    "image": {
+      "public_id": "test/tfegoy9kk2kybf2chlkh",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1653632466/test/tfegoy9kk2kybf2chlkh.jpg"
+    },
+    "quantity": 6,
+    "category": "61f50dcc3a1b1320b1c6b6f4",
+    "createdAt": "2022-05-27T06:21:24.256Z",
+    "updatedAt": "2022-07-29T18:33:53.355Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "62906d39f5393ad4732ae76e",
+    "title": "Sanino",
+    "price": 5000,
+    "description": "50 ml",
+    "image": {
+      "public_id": "test/ajmhxxry5aaqlz7kjmmc",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1653632299/test/ajmhxxry5aaqlz7kjmmc.png"
+    },
+    "quantity": 120,
+    "category": "61f50dcc3a1b1320b1c6b6f4",
+    "createdAt": "2022-05-27T06:18:33.707Z",
+    "updatedAt": "2022-05-29T15:54:27.481Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "62825817f5393ad4732ae76b",
+    "title": "Esty",
+    "price": 11500,
+    "description": "6 dona",
+    "image": {
+      "public_id": "test/sxyniz5zaejqxwerobpo",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1652709361/test/sxyniz5zaejqxwerobpo.jpg"
+    },
+    "quantity": 90,
+    "category": "6224a5cc7a6e9364d6b15a14",
+    "createdAt": "2022-05-16T13:56:39.472Z",
+    "updatedAt": "2022-05-16T13:56:39.472Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 4,
+    "_id": "6281448ef5393ad4732ae769",
+    "title": "Persil 1.5",
+    "price": 35000,
+    "description": "1,5 kg",
+    "image": {
+      "public_id": "test/ceg2syyyqxifwjx7gwlw",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1652638838/test/ceg2syyyqxifwjx7gwlw.jpg"
+    },
+    "quantity": 10,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-05-15T18:21:02.464Z",
+    "updatedAt": "2022-07-29T18:31:33.611Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 10,
+    "_id": "626ee4257a6e9364d6b15ab4",
+    "title": "Lark",
+    "price": 22000,
+    "description": "150 gr blokda 4 ta",
+    "image": {
+      "public_id": "test/eje3jmiuxpjuvekfckz7",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1651434514/test/eje3jmiuxpjuvekfckz7.jpg"
+    },
+    "quantity": 114,
+    "category": "61f953c23a1b1320b1c6b71e",
+    "createdAt": "2022-05-01T19:48:53.336Z",
+    "updatedAt": "2022-06-06T17:50:32.752Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "625a73f97a6e9364d6b15aa3",
+    "title": "Sunlight 72 econom",
+    "price": 6100,
+    "description": "72 econom",
+    "image": {
+      "public_id": "test/g66ualmpbtclrgbvkwbg",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1650095072/test/g66ualmpbtclrgbvkwbg.jpg"
+    },
+    "quantity": 60,
+    "category": "625a45bc7a6e9364d6b15a98",
+    "createdAt": "2022-04-16T07:44:57.643Z",
+    "updatedAt": "2022-04-24T09:46:04.355Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "625a73d17a6e9364d6b15aa2",
+    "title": "Sunlight 72 extra",
+    "price": 7400,
+    "description": "72 extra package",
+    "image": {
+      "public_id": "test/zdm0f6m0z3yhjxxwigyn",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1650095036/test/zdm0f6m0z3yhjxxwigyn.jpg"
+    },
+    "quantity": 60,
+    "category": "625a45bc7a6e9364d6b15a98",
+    "createdAt": "2022-04-16T07:44:17.348Z",
+    "updatedAt": "2022-04-17T09:45:46.386Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "625a731c7a6e9364d6b15a9a",
+    "title": "Sunlight 120 eco",
+    "price": 10100,
+    "description": "120 econom",
+    "image": {
+      "public_id": "test/fproqsdeabqiesltlcsf",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1650094844/test/fproqsdeabqiesltlcsf.jpg"
+    },
+    "quantity": 60,
+    "category": "625a45bc7a6e9364d6b15a98",
+    "createdAt": "2022-04-16T07:41:16.188Z",
+    "updatedAt": "2022-04-24T09:47:30.730Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 1,
+    "_id": "625a57487a6e9364d6b15a99",
+    "title": "Sunlight 120",
+    "price": 11300,
+    "description": "120 extra",
+    "image": {
+      "public_id": "test/c8vjyxqutsb6kofly8uk",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1650087726/test/c8vjyxqutsb6kofly8uk.jpg"
+    },
+    "quantity": 90,
+    "category": "625a45bc7a6e9364d6b15a98",
+    "createdAt": "2022-04-16T05:42:32.572Z",
+    "updatedAt": "2022-07-29T18:30:43.503Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 3,
+    "_id": "625598bd7a6e9364d6b15a8f",
+    "title": "Ariel gel 24",
+    "price": 53000,
+    "description": "1430 ml",
+    "image": {
+      "public_id": "test/cua6n24v8tvwhltg5uif",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1649776794/test/cua6n24v8tvwhltg5uif.jpg"
+    },
+    "quantity": 118,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-04-12T15:20:29.324Z",
+    "updatedAt": "2022-06-09T17:35:27.515Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6254c89e7a6e9364d6b15a89",
+    "title": "Fairy 1 L",
+    "price": 17500,
+    "description": "1000 ml",
+    "image": {
+      "public_id": "test/rmfw8o0vq605vvqiotp8",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1649723527/test/rmfw8o0vq605vvqiotp8.jpg"
+    },
+    "quantity": 120,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-04-12T00:32:30.770Z",
+    "updatedAt": "2022-04-12T00:32:30.770Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 4,
+    "_id": "6254c7e87a6e9364d6b15a86",
+    "title": "Fairy 750",
+    "price": 14900,
+    "description": "750 ml",
+    "image": {
+      "public_id": "test/v7siwovm5rsyel9xyitc",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1649723348/test/v7siwovm5rsyel9xyitc.jpg"
+    },
+    "quantity": 116,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-04-12T00:29:28.057Z",
+    "updatedAt": "2022-04-20T20:02:36.094Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6252d0207a6e9364d6b15a81",
+    "title": "Nivea rolik women",
+    "price": 23500,
+    "description": "50 ml",
+    "image": {
+      "public_id": "test/fhmwezdtq6kfjfadubki",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1649594377/test/fhmwezdtq6kfjfadubki.jpg"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-04-10T12:40:00.475Z",
+    "updatedAt": "2022-07-29T18:07:46.421Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6252cfb57a6e9364d6b15a7a",
+    "title": "Nivea rolik men",
+    "price": 22000,
+    "description": "50 ml",
+    "image": {
+      "public_id": "test/nyelcp9cc3bviphhyuxh",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1649594240/test/nyelcp9cc3bviphhyuxh.png"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-04-10T12:38:13.733Z",
+    "updatedAt": "2022-07-29T18:07:27.300Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 1,
+    "_id": "625274d17a6e9364d6b15a77",
+    "title": "Heads shoulder(Tailand)",
+    "price": 72000,
+    "description": "720 ml",
+    "image": {
+      "public_id": "test/raywrrxncolczz9ghee0",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1649570896/test/raywrrxncolczz9ghee0.jpg"
+    },
+    "quantity": 30,
+    "category": "61f504093a1b1320b1c6b6f1",
+    "createdAt": "2022-04-10T06:10:25.647Z",
+    "updatedAt": "2022-05-13T17:04:28.905Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "625273027a6e9364d6b15a76",
+    "title": "Air wick(Rossiya)",
+    "price": 30000,
+    "description": "250 ml",
+    "image": {
+      "public_id": "test/xwhwyf6un54bvs1ocfds",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1649570517/test/xwhwyf6un54bvs1ocfds.jpg"
+    },
+    "quantity": 120,
+    "category": "61fa601f3a1b1320b1c6b72d",
+    "createdAt": "2022-04-10T06:02:42.488Z",
+    "updatedAt": "2022-04-10T06:03:55.019Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 2,
+    "_id": "625250177a6e9364d6b15a71",
+    "title": "Fairy 500",
+    "price": 9000,
+    "description": "500 ml",
+    "image": {
+      "public_id": "test/jmsdo6rmnxr4tao93zle",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1649561606/test/jmsdo6rmnxr4tao93zle.jpg"
+    },
+    "quantity": 28,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-04-10T03:33:43.651Z",
+    "updatedAt": "2022-05-19T18:20:24.434Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 9,
+    "_id": "624e814d7a6e9364d6b15a6c",
+    "title": "Ariel 975",
+    "price": 40900,
+    "description": "15 stirka",
+    "image": {
+      "public_id": "test/wvlfexxefuqgcyjzfa7w",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1649312039/test/wvlfexxefuqgcyjzfa7w.jpg"
+    },
+    "quantity": 111,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-04-07T06:14:37.257Z",
+    "updatedAt": "2022-06-09T17:35:27.515Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 4,
+    "_id": "624e5dce7a6e9364d6b15a67",
+    "title": "Colgate Natural extract",
+    "price": 16500,
+    "description": "75 ml",
+    "image": {
+      "public_id": "test/x7ymeft5nshf3adgtamn",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1649302954/test/x7ymeft5nshf3adgtamn.jpg"
+    },
+    "quantity": 44,
+    "category": "61f50dcc3a1b1320b1c6b6f4",
+    "createdAt": "2022-04-07T03:43:10.450Z",
+    "updatedAt": "2022-07-30T10:48:43.161Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 20,
+    "_id": "6249a1d27a6e9364d6b15a62",
+    "title": "Wind rose",
+    "price": 7600,
+    "description": "300 ml",
+    "image": {
+      "public_id": "test/gzdgqiotxhcwtyh92vjt",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1648992693/test/gzdgqiotxhcwtyh92vjt.jpg"
+    },
+    "quantity": 1200,
+    "category": "61fa601f3a1b1320b1c6b72d",
+    "createdAt": "2022-04-03T13:32:02.048Z",
+    "updatedAt": "2022-04-25T16:36:52.196Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 15,
+    "_id": "6247445c7a6e9364d6b15a61",
+    "title": "Jasmin-A",
+    "price": 11500,
+    "description": "6 dona",
+    "image": {
+      "public_id": "test/pn0sz1sxrj2livxycrgx",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1648837702/test/pn0sz1sxrj2livxycrgx.jpg"
+    },
+    "quantity": 75,
+    "category": "6224a5cc7a6e9364d6b15a14",
+    "createdAt": "2022-04-01T18:28:44.691Z",
+    "updatedAt": "2022-06-08T07:06:22.665Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 3,
+    "_id": "623734217a6e9364d6b15a4b",
+    "title": "Dove Gel dush",
+    "price": 29000,
+    "description": "500 ml",
+    "image": {
+      "public_id": "test/vhkr0qmjl6eexssfulcd",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647784969/test/vhkr0qmjl6eexssfulcd.jpg"
+    },
+    "quantity": 27,
+    "category": "6205fd7f3a1b1320b1c6b740",
+    "createdAt": "2022-03-20T14:03:13.185Z",
+    "updatedAt": "2022-04-13T06:25:18.889Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 6,
+    "_id": "623733f37a6e9364d6b15a4a",
+    "title": "Dove gel dush",
+    "price": 29000,
+    "description": "400 ml",
+    "image": {
+      "public_id": "test/g6lizn9781pyxj5sgslf",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647784924/test/g6lizn9781pyxj5sgslf.jpg"
+    },
+    "quantity": 24,
+    "category": "6205fd7f3a1b1320b1c6b740",
+    "createdAt": "2022-03-20T14:02:27.994Z",
+    "updatedAt": "2022-05-19T18:20:24.434Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 8,
+    "_id": "6236c5877a6e9364d6b15a47",
+    "title": "Colgate Optic white(Dubay)",
+    "price": 17000,
+    "description": "75 ml ",
+    "image": {
+      "public_id": "test/kdwmd9myry46tl0fqgy1",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647756670/test/kdwmd9myry46tl0fqgy1.jpg"
+    },
+    "quantity": 118,
+    "category": "61f50dcc3a1b1320b1c6b6f4",
+    "createdAt": "2022-03-20T06:11:19.681Z",
+    "updatedAt": "2022-07-29T18:34:14.664Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 44,
+    "_id": "623099e97a6e9364d6b15a46",
+    "title": "Azelit kazan",
+    "price": 23500,
+    "description": "Rossiya",
+    "image": {
+      "public_id": "test/b16pbpo1vzhzck8vyors",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647352273/test/b16pbpo1vzhzck8vyors.jpg"
+    },
+    "quantity": 355,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-03-15T13:51:37.342Z",
+    "updatedAt": "2022-06-03T05:44:35.534Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 50,
+    "_id": "623095bb7a6e9364d6b15a45",
+    "title": "Azelit gaz",
+    "price": 23500,
+    "description": "Rossiya",
+    "image": {
+      "public_id": "test/pkkyre3kzihuunzt2xpb",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647351205/test/pkkyre3kzihuunzt2xpb.jpg"
+    },
+    "quantity": 360,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-03-15T13:33:47.298Z",
+    "updatedAt": "2022-06-03T05:44:35.536Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 2,
+    "_id": "623095897a6e9364d6b15a44",
+    "title": "Azelit Gloss",
+    "price": 26000,
+    "description": "Rossiya",
+    "image": {
+      "public_id": "test/j1wyuetctg6y4gtgyehj",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647351137/test/j1wyuetctg6y4gtgyehj.png"
+    },
+    "quantity": 38,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-03-15T13:32:57.088Z",
+    "updatedAt": "2022-05-19T18:20:24.434Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 2,
+    "_id": "623093927a6e9364d6b15a43",
+    "title": "Grass Gloss 1000 ml",
+    "price": 27000,
+    "description": "Rossiya",
+    "image": {
+      "public_id": "test/vzarja6mt1kijhw7bmat",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647350643/test/vzarja6mt1kijhw7bmat.jpg"
+    },
+    "quantity": 598,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-03-15T13:24:34.550Z",
+    "updatedAt": "2022-04-13T06:25:18.889Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6230935a7a6e9364d6b15a42",
+    "title": "Grass gloss",
+    "price": 23000,
+    "description": "750 ml",
+    "image": {
+      "public_id": "test/btaqar00vsuw0hzwvzo4",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647350568/test/btaqar00vsuw0hzwvzo4.jpg"
+    },
+    "quantity": 300,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-03-15T13:23:38.930Z",
+    "updatedAt": "2022-03-26T14:11:53.764Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "623010af7a6e9364d6b15a3f",
+    "title": "L'oreal 250",
+    "price": 34500,
+    "description": "250 ml",
+    "image": {
+      "public_id": "test/lretep1swjhmycomfdfe",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647317145/test/lretep1swjhmycomfdfe.jpg"
+    },
+    "quantity": 360,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-03-15T04:06:07.085Z",
+    "updatedAt": "2022-07-29T18:11:09.345Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "622c5cdc7a6e9364d6b15a37",
+    "title": "Ace(turkiya)",
+    "price": 17900,
+    "description": "750 ml",
+    "image": {
+      "public_id": "test/qaztgadrcyzowtllamfy",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647074515/test/qaztgadrcyzowtllamfy.png"
+    },
+    "quantity": 240,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-03-12T08:42:04.732Z",
+    "updatedAt": "2022-04-10T03:32:35.481Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "622c5a9f7a6e9364d6b15a36",
+    "title": "Bref (kubik)",
+    "price": 15400,
+    "description": "Kubik",
+    "image": {
+      "public_id": "test/limxpasdwimg5kaerfbd",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647073940/test/limxpasdwimg5kaerfbd.jpg"
+    },
+    "quantity": 50,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-03-12T08:32:31.739Z",
+    "updatedAt": "2022-04-15T04:12:55.081Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 2,
+    "_id": "622c59a47a6e9364d6b15a35",
+    "title": "Bref",
+    "price": 10900,
+    "description": "Sharikli",
+    "image": {
+      "public_id": "test/hbc2zkvucwnwlnb4dyhy",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647073665/test/hbc2zkvucwnwlnb4dyhy.jpg"
+    },
+    "quantity": 88,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-03-12T08:28:20.902Z",
+    "updatedAt": "2022-05-19T18:20:24.434Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 5,
+    "_id": "622c58707a6e9364d6b15a34",
+    "title": "Colgate 50(Turkiya)",
+    "price": 5900,
+    "description": "50 ml",
+    "image": {
+      "public_id": "test/uxt6dysc1xryk64kd98m",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647073379/test/uxt6dysc1xryk64kd98m.png"
+    },
+    "quantity": 180,
+    "category": "61f50dcc3a1b1320b1c6b6f4",
+    "createdAt": "2022-03-12T08:23:12.815Z",
+    "updatedAt": "2022-04-15T03:52:18.475Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 25,
+    "_id": "622c583d7a6e9364d6b15a33",
+    "title": "Colgate 100(Turkiya)",
+    "price": 9800,
+    "description": "100 ml",
+    "image": {
+      "public_id": "test/vqvbtdyotuwnpl5qp8yw",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647073318/test/vqvbtdyotuwnpl5qp8yw.png"
+    },
+    "quantity": 240,
+    "category": "61f50dcc3a1b1320b1c6b6f4",
+    "createdAt": "2022-03-12T08:22:21.199Z",
+    "updatedAt": "2022-05-29T15:54:47.141Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 20,
+    "_id": "622c57af7a6e9364d6b15a32",
+    "title": "Colgate Maxfresh",
+    "price": 13500,
+    "description": "100 ml (Dubay)",
+    "image": {
+      "public_id": "test/hazsaf2jb7vefljaah93",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647073176/test/hazsaf2jb7vefljaah93.png"
+    },
+    "quantity": 120,
+    "category": "61f50dcc3a1b1320b1c6b6f4",
+    "createdAt": "2022-03-12T08:19:59.560Z",
+    "updatedAt": "2022-05-22T17:19:44.499Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 25,
+    "_id": "622c54677a6e9364d6b15a2f",
+    "title": "L'oreal Elseve",
+    "price": 29000,
+    "description": "400 ml",
+    "image": {
+      "public_id": "test/rspkyd0ky0svutgetq8x",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647072345/test/rspkyd0ky0svutgetq8x.png"
+    },
+    "quantity": 1490,
+    "category": "61f504093a1b1320b1c6b6f1",
+    "createdAt": "2022-03-12T08:05:59.433Z",
+    "updatedAt": "2022-07-30T08:57:14.724Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 2,
+    "_id": "6229859f7a6e9364d6b15a27",
+    "title": "Lenor 11",
+    "price": 40000,
+    "description": "11 dona",
+    "image": {
+      "public_id": "test/kd50ocftinoxjwwy60uq",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646888319/test/kd50ocftinoxjwwy60uq.jpg"
+    },
+    "quantity": 30,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-03-10T04:59:11.466Z",
+    "updatedAt": "2022-05-13T17:09:08.122Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 33,
+    "_id": "6224cec67a6e9364d6b15a19",
+    "title": "Lotos",
+    "price": 15500,
+    "description": "6 dona",
+    "image": {
+      "public_id": "test/npyadhxc4k5fddxv5wmw",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646579385/test/npyadhxc4k5fddxv5wmw.jpg"
+    },
+    "quantity": 25,
+    "category": "6224a5cc7a6e9364d6b15a14",
+    "createdAt": "2022-03-06T15:09:58.938Z",
+    "updatedAt": "2022-05-19T04:11:50.199Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6224c6c07a6e9364d6b15a16",
+    "title": "Tomford",
+    "price": 195000,
+    "description": "100 ml",
+    "image": {
+      "public_id": "test/ojppyurzvjz13xbnu7rz",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646577326/test/ojppyurzvjz13xbnu7rz.jpg"
+    },
+    "quantity": 3,
+    "category": "6217362d1bbcb33e77072b3f",
+    "createdAt": "2022-03-06T14:35:44.121Z",
+    "updatedAt": "2022-03-29T16:39:33.290Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6224c64a7a6e9364d6b15a15",
+    "title": "Carolina Herrera",
+    "price": 195000,
+    "description": "100 ml",
+    "image": {
+      "public_id": "test/w8qn09fso1ac2v7vqcx4",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646577196/test/w8qn09fso1ac2v7vqcx4.jpg"
+    },
+    "quantity": 2,
+    "category": "6217362d1bbcb33e77072b3f",
+    "createdAt": "2022-03-06T14:33:46.311Z",
+    "updatedAt": "2022-03-29T16:39:44.818Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "622471ed7a6e9364d6b15a12",
+    "title": "Nivea gel dish men(Rossiya)",
+    "price": 23000,
+    "description": "250 ml",
+    "image": {
+      "public_id": "test/psdumvvgq1izfdgoeuh9",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646555498/test/psdumvvgq1izfdgoeuh9.jpg"
+    },
+    "quantity": 30,
+    "category": "6205fd7f3a1b1320b1c6b740",
+    "createdAt": "2022-03-06T08:33:49.083Z",
+    "updatedAt": "2022-03-27T16:18:56.817Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6222fa2c7a6e9364d6b15a06",
+    "title": "Blendamed 100",
+    "price": 20500,
+    "description": "100 ml",
+    "image": {
+      "public_id": "test/zck9dzwi2gtqyusoptw8",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646459407/test/zck9dzwi2gtqyusoptw8.jpg"
+    },
+    "quantity": 90,
+    "category": "61f50dcc3a1b1320b1c6b6f4",
+    "createdAt": "2022-03-05T05:50:36.029Z",
+    "updatedAt": "2022-04-22T09:43:21.378Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6222f9e87a6e9364d6b15a05",
+    "title": "Blendamed 140 ml",
+    "price": 22500,
+    "description": "140 ml",
+    "image": {
+      "public_id": "test/vwmip2qd4iopivzp5stk",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646459338/test/vwmip2qd4iopivzp5stk.png"
+    },
+    "quantity": 120,
+    "category": "61f50dcc3a1b1320b1c6b6f4",
+    "createdAt": "2022-03-05T05:49:28.676Z",
+    "updatedAt": "2022-05-29T15:55:17.414Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6220d7d77a6e9364d6b159fc",
+    "title": "Carbon 1000",
+    "price": 15000,
+    "description": "1000 ml",
+    "image": {
+      "public_id": "test/fk6ah5rru8qh1rwrrynl",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646319571/test/fk6ah5rru8qh1rwrrynl.png"
+    },
+    "quantity": 0,
+    "category": "6214abb63a1b1320b1c6b80d",
+    "createdAt": "2022-03-03T14:59:35.445Z",
+    "updatedAt": "2022-03-16T09:35:16.035Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 1,
+    "_id": "6220d74b7a6e9364d6b159fb",
+    "title": "Carbon 500",
+    "price": 9200,
+    "description": "500 ml",
+    "image": {
+      "public_id": "test/lh4tzc0mpx9i4alkofp1",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646319304/test/lh4tzc0mpx9i4alkofp1.png"
+    },
+    "quantity": 0,
+    "category": "6214abb63a1b1320b1c6b80d",
+    "createdAt": "2022-03-03T14:57:15.236Z",
+    "updatedAt": "2022-05-16T14:08:27.422Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 2,
+    "_id": "6220d4ee7a6e9364d6b159fa",
+    "title": "Aroma Yunos",
+    "price": 9000,
+    "description": "400 ml",
+    "image": {
+      "public_id": "test/fepidablwzfa00zd6s9w",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646318418/test/fepidablwzfa00zd6s9w.png"
+    },
+    "quantity": 238,
+    "category": "61fa601f3a1b1320b1c6b72d",
+    "createdAt": "2022-03-03T14:47:10.779Z",
+    "updatedAt": "2022-04-17T23:19:23.585Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 8,
+    "_id": "621f79a07a6e9364d6b159f7",
+    "title": "Pantene 400 balzam",
+    "price": 29000,
+    "description": "400 ml",
+    "image": {
+      "public_id": "test/qhpwzo9otzvpl4d2cilk",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646229887/test/qhpwzo9otzvpl4d2cilk.jpg"
+    },
+    "quantity": 50,
+    "category": "6214abb63a1b1320b1c6b80d",
+    "createdAt": "2022-03-02T14:05:20.286Z",
+    "updatedAt": "2022-05-16T14:08:44.040Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "621f79107a6e9364d6b159f6",
+    "title": "Pantene 200",
+    "price": 19000,
+    "description": "200 ml",
+    "image": {
+      "public_id": "test/gw10zgnpf09jm3pml8zc",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646229755/test/gw10zgnpf09jm3pml8zc.jpg"
+    },
+    "quantity": 50,
+    "category": "6214abb63a1b1320b1c6b80d",
+    "createdAt": "2022-03-02T14:02:56.620Z",
+    "updatedAt": "2022-03-29T16:05:40.798Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "621f78e27a6e9364d6b159f5",
+    "title": "Pantene balzam",
+    "price": 32000,
+    "description": "200 ml",
+    "image": {
+      "public_id": "test/rhl5ulwjkvftmhqqkuso",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646229691/test/rhl5ulwjkvftmhqqkuso.jpg"
+    },
+    "quantity": 20,
+    "category": "6214abb63a1b1320b1c6b80d",
+    "createdAt": "2022-03-02T14:02:10.741Z",
+    "updatedAt": "2022-05-09T05:52:24.732Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 46,
+    "_id": "621f74b87a6e9364d6b159f4",
+    "title": "Verita",
+    "price": 6300,
+    "description": "",
+    "image": {
+      "public_id": "test/fkutlrlllinvfs3eeohk",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646228643/test/fkutlrlllinvfs3eeohk.jpg"
+    },
+    "quantity": 80,
+    "category": "621b03aa7a6e9364d6b159db",
+    "createdAt": "2022-03-02T13:44:24.646Z",
+    "updatedAt": "2022-05-16T13:57:43.383Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 196,
+    "_id": "621f6eb87a6e9364d6b159f3",
+    "title": "Prima",
+    "price": 103000,
+    "description": "2,3,4,5",
+    "image": {
+      "public_id": "test/cvkp1n8fq0pbhghkrpmg",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646227109/test/cvkp1n8fq0pbhghkrpmg.jpg"
+    },
+    "quantity": 358,
+    "category": "61f63eba3a1b1320b1c6b6f9",
+    "createdAt": "2022-03-02T13:18:48.849Z",
+    "updatedAt": "2022-07-29T18:34:39.746Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "621f6d837a6e9364d6b159f2",
+    "title": "Lody",
+    "price": 95000,
+    "description": "1,2,3,4,5,6",
+    "image": {
+      "public_id": "test/yb5ihx3c1krfpewj3eyx",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646226795/test/yb5ihx3c1krfpewj3eyx.jpg"
+    },
+    "quantity": 120,
+    "category": "61f63eba3a1b1320b1c6b6f9",
+    "createdAt": "2022-03-02T13:13:39.515Z",
+    "updatedAt": "2022-06-07T04:46:59.775Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 119,
+    "_id": "621f66997a6e9364d6b159f0",
+    "title": "O'nlem",
+    "price": 100000,
+    "description": "1,2,3,4,5,6",
+    "image": {
+      "public_id": "test/ypphrb8habdzorpygien",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646225007/test/ypphrb8habdzorpygien.jpg"
+    },
+    "quantity": 358,
+    "category": "61f63eba3a1b1320b1c6b6f9",
+    "createdAt": "2022-03-02T12:44:09.319Z",
+    "updatedAt": "2022-07-29T18:34:52.903Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 2,
+    "_id": "621f644c7a6e9364d6b159ef",
+    "title": "Doctor S balzam 300",
+    "price": 5500,
+    "description": "300 ml",
+    "image": {
+      "public_id": "test/ysjv4iput1wgggejcgfw",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646224431/test/ysjv4iput1wgggejcgfw.png"
+    },
+    "quantity": 0,
+    "category": "6214abb63a1b1320b1c6b80d",
+    "createdAt": "2022-03-02T12:34:20.353Z",
+    "updatedAt": "2022-05-16T14:09:02.127Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "621f641a7a6e9364d6b159ee",
+    "title": "Doctor S",
+    "price": 7500,
+    "description": "500 ml",
+    "image": {
+      "public_id": "test/sjacp4naeavktkg7nl65",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646224303/test/sjacp4naeavktkg7nl65.png"
+    },
+    "quantity": 0,
+    "category": "6214abb63a1b1320b1c6b80d",
+    "createdAt": "2022-03-02T12:33:30.948Z",
+    "updatedAt": "2022-03-30T17:02:52.591Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 31,
+    "_id": "621f5d367a6e9364d6b159ed",
+    "title": "Yumos 1440",
+    "price": 33000,
+    "description": "1440 ml",
+    "image": {
+      "public_id": "test/fx4ejemkvof8fnziu6qw",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646223550/test/fx4ejemkvof8fnziu6qw.jpg"
+    },
+    "quantity": 114,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-03-02T12:04:06.426Z",
+    "updatedAt": "2022-06-09T17:35:27.515Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "621b65187a6e9364d6b159e6",
+    "title": "Carbon 930",
+    "price": 13500,
+    "description": "930 ml",
+    "image": {
+      "public_id": "test/sgm9qckas5b4xjh4bkey",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646223156/test/sgm9qckas5b4xjh4bkey.png"
+    },
+    "quantity": 0,
+    "category": "6214abb63a1b1320b1c6b80d",
+    "createdAt": "2022-02-27T11:48:40.422Z",
+    "updatedAt": "2022-05-06T04:22:57.982Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "621b64aa7a6e9364d6b159e5",
+    "title": "Carbon 550",
+    "price": 5500,
+    "description": "550 ml",
+    "image": {
+      "public_id": "test/ekgczubzxyjtbiqswanh",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646223207/test/ekgczubzxyjtbiqswanh.png"
+    },
+    "quantity": 0,
+    "category": "6214abb63a1b1320b1c6b80d",
+    "createdAt": "2022-02-27T11:46:50.046Z",
+    "updatedAt": "2022-03-22T18:02:21.430Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 8,
+    "_id": "621b530c7a6e9364d6b159e3",
+    "title": "Rexona 200 (women)",
+    "price": 17700,
+    "description": "200 ml",
+    "image": {
+      "public_id": "test/xwls1lw4jfncll2xurmn",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645957862/test/xwls1lw4jfncll2xurmn.jpg"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-27T10:31:40.882Z",
+    "updatedAt": "2022-07-29T18:11:46.453Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 2,
+    "_id": "621b481d7a6e9364d6b159e2",
+    "title": "Nivea soft cream",
+    "price": 21500,
+    "description": "100 ml",
+    "image": {
+      "public_id": "test/xvh0pwpgwszr7ibqn7wi",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645955028/test/xvh0pwpgwszr7ibqn7wi.jpg"
+    },
+    "quantity": 28,
+    "category": "6224a0297a6e9364d6b15a13",
+    "createdAt": "2022-02-27T09:45:01.350Z",
+    "updatedAt": "2022-05-28T11:49:06.383Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "621b43a37a6e9364d6b159e0",
+    "title": "Eveline Double white",
+    "price": 19500,
+    "description": "200 ml",
+    "image": {
+      "public_id": "test/qd40lucv4e5pypiicbhx",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645953891/test/qd40lucv4e5pypiicbhx.png"
+    },
+    "quantity": 30,
+    "category": "6224a0297a6e9364d6b15a13",
+    "createdAt": "2022-02-27T09:25:55.729Z",
+    "updatedAt": "2022-04-21T12:36:32.466Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 37,
+    "_id": "621b05df7a6e9364d6b159dd",
+    "title": "Silay gupka",
+    "price": 4000,
+    "description": "",
+    "image": {
+      "public_id": "test/aeivwtmrcga1hs9cncl4",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645938068/test/aeivwtmrcga1hs9cncl4.jpg"
+    },
+    "quantity": 163,
+    "category": "621b03aa7a6e9364d6b159db",
+    "createdAt": "2022-02-27T05:02:23.930Z",
+    "updatedAt": "2022-05-19T04:14:02.300Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 93,
+    "_id": "621b045b7a6e9364d6b159dc",
+    "title": "Niso",
+    "price": 7800,
+    "description": "",
+    "image": {
+      "public_id": "test/xfluqsyqpfigfdalns0t",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645937710/test/xfluqsyqpfigfdalns0t.jpg"
+    },
+    "quantity": 229,
+    "category": "621b03aa7a6e9364d6b159db",
+    "createdAt": "2022-02-27T04:55:55.442Z",
+    "updatedAt": "2022-06-09T17:35:27.515Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 40,
+    "_id": "6219ed0f7a6e9364d6b159ce",
+    "title": "Sleepy (Turkiya)",
+    "price": 10500,
+    "description": "120 dona",
+    "image": {
+      "public_id": "test/icy9uualvfkv3qcjk0da",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645866203/test/icy9uualvfkv3qcjk0da.jpg"
+    },
+    "quantity": 120,
+    "category": "61fa46423a1b1320b1c6b722",
+    "createdAt": "2022-02-26T09:04:15.392Z",
+    "updatedAt": "2022-07-30T10:48:11.336Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "621900687a6e9364d6b159cd",
+    "title": "Johnson 300",
+    "price": 27500,
+    "description": "300 ml",
+    "image": {
+      "public_id": "test/cvlszirbhl3tmdtb4yc2",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645805160/test/cvlszirbhl3tmdtb4yc2.jpg"
+    },
+    "quantity": 0,
+    "category": "6208c3223a1b1320b1c6b76e",
+    "createdAt": "2022-02-25T16:14:32.540Z",
+    "updatedAt": "2022-03-16T09:31:11.810Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6218fe527a6e9364d6b159cc",
+    "title": "Johnson 200",
+    "price": 22500,
+    "description": "200 ml",
+    "image": {
+      "public_id": "test/yelbg4qxmpdkoaskpbpz",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645804173/test/yelbg4qxmpdkoaskpbpz.jpg"
+    },
+    "quantity": 0,
+    "category": "6208c3223a1b1320b1c6b76e",
+    "createdAt": "2022-02-25T16:05:38.233Z",
+    "updatedAt": "2022-03-16T09:33:39.226Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 13,
+    "_id": "6218fa4c7a6e9364d6b159cb",
+    "title": "Johnson baby yogi 100",
+    "price": 16200,
+    "description": "100 ml",
+    "image": {
+      "public_id": "test/cobmvmugqr7adwsnkblj",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645803709/test/cobmvmugqr7adwsnkblj.jpg"
+    },
+    "quantity": 25,
+    "category": "6208c3223a1b1320b1c6b76e",
+    "createdAt": "2022-02-25T15:48:28.759Z",
+    "updatedAt": "2022-04-02T19:48:02.232Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 2,
+    "_id": "621879ea7a6e9364d6b159c3",
+    "title": "Derby Samurai 3",
+    "price": 25000,
+    "description": "14 dona",
+    "image": {
+      "public_id": "test/httebw5veqsdvr9xq4ga",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645771220/test/httebw5veqsdvr9xq4ga.jpg"
+    },
+    "quantity": 59,
+    "category": "62170a7d1bbcb33e77072b2f",
+    "createdAt": "2022-02-25T06:40:42.686Z",
+    "updatedAt": "2022-04-02T19:54:58.485Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "621736a81bbcb33e77072b41",
+    "title": "Hayyati women",
+    "price": 105000,
+    "description": "100 ml",
+    "image": {
+      "public_id": "test/mfwrpssisqgbkyiqalpx",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1647786728/test/mfwrpssisqgbkyiqalpx.jpg"
+    },
+    "quantity": 5,
+    "category": "6217362d1bbcb33e77072b3f",
+    "createdAt": "2022-02-24T07:41:28.959Z",
+    "updatedAt": "2022-03-20T14:32:19.164Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6217365d1bbcb33e77072b40",
+    "title": "Hayyati men",
+    "price": 105000,
+    "description": "100 ml",
+    "image": {
+      "public_id": "test/fx2phdvphsgqxgty1o6w",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645688393/test/fx2phdvphsgqxgty1o6w.jpg"
+    },
+    "quantity": 10,
+    "category": "6217362d1bbcb33e77072b3f",
+    "createdAt": "2022-02-24T07:40:13.270Z",
+    "updatedAt": "2022-03-20T06:12:48.186Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 18,
+    "_id": "62172aa11bbcb33e77072b3c",
+    "title": "Silk (1blog)",
+    "price": 26500,
+    "description": "140 gr",
+    "image": {
+      "public_id": "test/mjfydlb4vtrahnbuwhum",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645685349/test/mjfydlb4vtrahnbuwhum.png"
+    },
+    "quantity": 260,
+    "category": "61f953c23a1b1320b1c6b71e",
+    "createdAt": "2022-02-24T06:50:09.982Z",
+    "updatedAt": "2022-05-13T17:05:46.992Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 20,
+    "_id": "621725d51bbcb33e77072b3b",
+    "title": "Yumos 1008",
+    "price": 30500,
+    "description": "1008 ml",
+    "image": {
+      "public_id": "test/czeifw7m6jsrfs4f4vou",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646223994/test/czeifw7m6jsrfs4f4vou.jpg"
+    },
+    "quantity": 84,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-02-24T06:29:41.465Z",
+    "updatedAt": "2022-06-09T17:35:27.515Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 29,
+    "_id": "621721901bbcb33e77072b39",
+    "title": "Head and shoulder",
+    "price": 19000,
+    "description": "200 ml",
+    "image": {
+      "public_id": "test/gdpjiqwscad8ukcgaiup",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645683059/test/gdpjiqwscad8ukcgaiup.jpg"
+    },
+    "quantity": 120,
+    "category": "61f504093a1b1320b1c6b6f1",
+    "createdAt": "2022-02-24T06:11:28.206Z",
+    "updatedAt": "2022-07-29T18:32:49.024Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "62171fce1bbcb33e77072b38",
+    "title": "Nivea (posle britva)",
+    "price": 42000,
+    "description": "100 ml (dubay)",
+    "image": {
+      "public_id": "test/l0xwhoyculxnyjbittky",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645682586/test/l0xwhoyculxnyjbittky.jpg"
+    },
+    "quantity": 10,
+    "category": "62170a7d1bbcb33e77072b2f",
+    "createdAt": "2022-02-24T06:03:58.030Z",
+    "updatedAt": "2022-04-21T12:12:24.993Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "62171cfc1bbcb33e77072b37",
+    "title": "Belle jardin",
+    "price": 16500,
+    "description": "Balzam va posle britya",
+    "image": {
+      "public_id": "test/izjc5etwrzd8ryb2colk",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645681786/test/izjc5etwrzd8ryb2colk.jpg"
+    },
+    "quantity": 30,
+    "category": "62170a7d1bbcb33e77072b2f",
+    "createdAt": "2022-02-24T05:51:56.296Z",
+    "updatedAt": "2022-04-21T12:11:26.975Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 2,
+    "_id": "62171a941bbcb33e77072b36",
+    "title": "Gillete pena",
+    "price": 18800,
+    "description": "200 ml",
+    "image": {
+      "public_id": "test/admiwymvnkvwjkksqsri",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645681259/test/admiwymvnkvwjkksqsri.jpg"
+    },
+    "quantity": 88,
+    "category": "62170a7d1bbcb33e77072b2f",
+    "createdAt": "2022-02-24T05:41:40.101Z",
+    "updatedAt": "2022-06-09T17:35:27.515Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "621719de1bbcb33e77072b35",
+    "title": "Gillete gel",
+    "price": 25500,
+    "description": "200 ml",
+    "image": {
+      "public_id": "test/z26xghbhx1in1qevfpau",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645681114/test/z26xghbhx1in1qevfpau.jpg"
+    },
+    "quantity": 30,
+    "category": "62170a7d1bbcb33e77072b2f",
+    "createdAt": "2022-02-24T05:38:38.878Z",
+    "updatedAt": "2022-05-03T07:51:51.279Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "621711421bbcb33e77072b34",
+    "title": "Gillete mach 3",
+    "price": 29000,
+    "description": "",
+    "image": {
+      "public_id": "test/rdpfnp3cn0gyakvx4fqs",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645678911/test/rdpfnp3cn0gyakvx4fqs.jpg"
+    },
+    "quantity": 20,
+    "category": "62170a7d1bbcb33e77072b2f",
+    "createdAt": "2022-02-24T05:01:54.314Z",
+    "updatedAt": "2022-03-29T16:02:31.308Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 12,
+    "_id": "6217111b1bbcb33e77072b33",
+    "title": "Gillete blue 3",
+    "price": 64000,
+    "description": "Lentada 10 ta",
+    "image": {
+      "public_id": "test/c5211qqfipcxrhw0xmii",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645678849/test/c5211qqfipcxrhw0xmii.jpg"
+    },
+    "quantity": 199,
+    "category": "62170a7d1bbcb33e77072b2f",
+    "createdAt": "2022-02-24T05:01:15.148Z",
+    "updatedAt": "2022-06-09T17:35:27.515Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 13,
+    "_id": "621710ec1bbcb33e77072b32",
+    "title": "Gillete blue 2",
+    "price": 88800,
+    "description": "Lentasi",
+    "image": {
+      "public_id": "test/dtkenh3tjpupdg1rms5o",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645678793/test/dtkenh3tjpupdg1rms5o.jpg"
+    },
+    "quantity": 239,
+    "category": "62170a7d1bbcb33e77072b2f",
+    "createdAt": "2022-02-24T05:00:28.220Z",
+    "updatedAt": "2022-06-09T17:35:27.516Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 21,
+    "_id": "62170e0c1bbcb33e77072b31",
+    "title": "Perwoll 1",
+    "price": 28000,
+    "description": "1 litr",
+    "image": {
+      "public_id": "test/s2qeyizxufkajdpdlw9a",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645678069/test/s2qeyizxufkajdpdlw9a.jpg"
+    },
+    "quantity": 90,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-02-24T04:48:12.589Z",
+    "updatedAt": "2022-05-15T18:28:14.394Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 4,
+    "_id": "62170dce1bbcb33e77072b30",
+    "title": "Perwoll 3",
+    "price": 62000,
+    "description": "3 litr",
+    "image": {
+      "public_id": "test/boupfrvccdqaymhudxkn",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645677854/test/boupfrvccdqaymhudxkn.png"
+    },
+    "quantity": 30,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-02-24T04:47:10.079Z",
+    "updatedAt": "2022-04-17T09:54:44.085Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6214ae963a1b1320b1c6b80f",
+    "title": "Carbon balzam",
+    "price": 9000,
+    "description": "500 ml",
+    "image": {
+      "public_id": "test/zkv6qni2mvjkf8pijkld",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645522562/test/zkv6qni2mvjkf8pijkld.png"
+    },
+    "quantity": 0,
+    "category": "6214abb63a1b1320b1c6b80d",
+    "createdAt": "2022-02-22T09:36:22.015Z",
+    "updatedAt": "2022-04-21T07:01:22.741Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 8,
+    "_id": "6214adda3a1b1320b1c6b80e",
+    "title": "Zeitun balzam",
+    "price": 9000,
+    "description": "500 ml",
+    "image": {
+      "public_id": "test/ux1ynau94ezbcfyvf9jd",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645521876/test/ux1ynau94ezbcfyvf9jd.jpg"
+    },
+    "quantity": 0,
+    "category": "6214abb63a1b1320b1c6b80d",
+    "createdAt": "2022-02-22T09:33:14.542Z",
+    "updatedAt": "2022-05-16T14:09:26.245Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "62149a9b3a1b1320b1c6b809",
+    "title": "Bek",
+    "price": 0,
+    "description": "200 ml",
+    "image": {
+      "public_id": "test/b2fjofbw6ceuwszuqiu5",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645517458/test/b2fjofbw6ceuwszuqiu5.png"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-22T08:11:07.036Z",
+    "updatedAt": "2022-07-29T18:03:33.502Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 23,
+    "_id": "6210d15c3a1b1320b1c6b7ea",
+    "title": "Yumos sprey",
+    "price": 33500,
+    "description": "400 ml",
+    "image": {
+      "public_id": "test/rcxvwoedeus7ookrforx",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645269318/test/rcxvwoedeus7ookrforx.png"
+    },
+    "quantity": 119,
+    "category": "61fa601f3a1b1320b1c6b72d",
+    "createdAt": "2022-02-19T11:15:40.916Z",
+    "updatedAt": "2022-05-27T08:29:03.328Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 10,
+    "_id": "620f6c043a1b1320b1c6b7d5",
+    "title": "Eveline depilyator",
+    "price": 15900,
+    "description": "70 ml",
+    "image": {
+      "public_id": "test/rlzhbzvt30vfwhnzhfbw",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645177814/test/rlzhbzvt30vfwhnzhfbw.jpg"
+    },
+    "quantity": 30,
+    "category": "6224a0297a6e9364d6b15a13",
+    "createdAt": "2022-02-18T09:51:00.191Z",
+    "updatedAt": "2022-04-21T12:37:16.089Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 80,
+    "_id": "620f6b1b3a1b1320b1c6b7d3",
+    "title": "Classic va milabo",
+    "price": 4500,
+    "description": "ayollar prokladkasi",
+    "image": {
+      "public_id": "test/u2riygbmp3itui3pm6yq",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645177599/test/u2riygbmp3itui3pm6yq.png"
+    },
+    "quantity": 0,
+    "category": "620f69163a1b1320b1c6b7d0",
+    "createdAt": "2022-02-18T09:47:07.097Z",
+    "updatedAt": "2022-06-08T09:35:42.517Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 30,
+    "_id": "620f6a793a1b1320b1c6b7d2",
+    "title": "Oyijon",
+    "price": 10500,
+    "description": "",
+    "image": {
+      "public_id": "test/x3pooqgmfjlx8d4bqsys",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645177424/test/x3pooqgmfjlx8d4bqsys.png"
+    },
+    "quantity": 0,
+    "category": "620f69163a1b1320b1c6b7d0",
+    "createdAt": "2022-02-18T09:44:25.131Z",
+    "updatedAt": "2022-06-08T09:36:05.468Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 25,
+    "_id": "620f69b53a1b1320b1c6b7d1",
+    "title": "QIrolicha",
+    "price": 4500,
+    "description": "Ayollar prokladkasi",
+    "image": {
+      "public_id": "test/bktkdrzuphqjlby73y0y",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645177195/test/bktkdrzuphqjlby73y0y.png"
+    },
+    "quantity": 0,
+    "category": "620f69163a1b1320b1c6b7d0",
+    "createdAt": "2022-02-18T09:41:09.636Z",
+    "updatedAt": "2022-06-08T09:36:36.961Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 6,
+    "_id": "620f648f3a1b1320b1c6b7cf",
+    "title": "Garnier deodarant",
+    "price": 21500,
+    "description": "150 ml",
+    "image": {
+      "public_id": "test/imdw9xygiddmsoobrbid",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645175935/test/imdw9xygiddmsoobrbid.jpg"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-18T09:19:11.341Z",
+    "updatedAt": "2022-07-29T18:05:18.668Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "620e03ae3a1b1320b1c6b7c6",
+    "title": "Dove stick (women)",
+    "price": 19900,
+    "description": "40 gr",
+    "image": {
+      "public_id": "test/btftwvskmeweuuyr97gq",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645085518/test/btftwvskmeweuuyr97gq.jpg"
+    },
+    "quantity": 450,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-17T08:13:34.231Z",
+    "updatedAt": "2022-07-29T18:04:44.226Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "620e03163a1b1320b1c6b7c5",
+    "title": "Dove 250",
+    "price": 27300,
+    "description": "250 ml",
+    "image": {
+      "public_id": "test/flrfzx75ebxbpa068zkp",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645085447/test/flrfzx75ebxbpa068zkp.jpg"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-17T08:11:02.908Z",
+    "updatedAt": "2022-07-29T18:04:24.521Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "620e02e93a1b1320b1c6b7c4",
+    "title": "Dove 150",
+    "price": 19500,
+    "description": "150 ml",
+    "image": {
+      "public_id": "test/fwxie7ff9c0yjapd5j6n",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645085396/test/fwxie7ff9c0yjapd5j6n.jpg"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-17T08:10:17.353Z",
+    "updatedAt": "2022-07-29T18:04:08.679Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 38,
+    "_id": "620dfd5e3a1b1320b1c6b7c2",
+    "title": "Air time spray",
+    "price": 9000,
+    "description": "400 ml",
+    "image": {
+      "public_id": "test/hu2ndf8pka4nwluxdlnr",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645084773/test/hu2ndf8pka4nwluxdlnr.png"
+    },
+    "quantity": 50,
+    "category": "61fa601f3a1b1320b1c6b72d",
+    "createdAt": "2022-02-17T07:46:38.128Z",
+    "updatedAt": "2022-03-20T06:20:24.572Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 1,
+    "_id": "620df98a3a1b1320b1c6b7bf",
+    "title": "Persil gel 66",
+    "price": 106900,
+    "description": "66 stirka",
+    "image": {
+      "public_id": "test/ebemtbenl7uqu1dzv5tz",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645082634/test/ebemtbenl7uqu1dzv5tz.jpg"
+    },
+    "quantity": 30,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-02-17T07:30:18.311Z",
+    "updatedAt": "2022-04-14T03:03:12.173Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 8,
+    "_id": "620de9253a1b1320b1c6b7bd",
+    "title": "Persil gel 33",
+    "price": 59500,
+    "description": "33 stirka",
+    "image": {
+      "public_id": "test/ejpgeqqxegkxhtbzocrz",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645078819/test/ejpgeqqxegkxhtbzocrz.jpg"
+    },
+    "quantity": 360,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-02-17T06:20:21.955Z",
+    "updatedAt": "2022-05-15T18:28:35.425Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 8,
+    "_id": "620de8fd3a1b1320b1c6b7bc",
+    "title": "Persil gel 26",
+    "price": 48000,
+    "description": "26 stirka",
+    "image": {
+      "public_id": "test/h2vqd0o7aiwswlglqsls",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645078775/test/h2vqd0o7aiwswlglqsls.jpg"
+    },
+    "quantity": 90,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-02-17T06:19:41.929Z",
+    "updatedAt": "2022-05-16T14:01:27.311Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 23,
+    "_id": "620de8aa3a1b1320b1c6b7bb",
+    "title": "Persil gel 16",
+    "price": 29500,
+    "description": "16 stirka",
+    "image": {
+      "public_id": "test/d6vhobsobfwwqfx0oejl",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645078685/test/d6vhobsobfwwqfx0oejl.jpg"
+    },
+    "quantity": 58,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-02-17T06:18:18.692Z",
+    "updatedAt": "2022-05-19T18:20:24.434Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 5,
+    "_id": "620b77763a1b1320b1c6b7b5",
+    "title": "Ariel kapsula 74",
+    "price": 177600,
+    "description": "74 dona",
+    "image": {
+      "public_id": "test/rizckgf2sjl5lpd2c3yn",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644918640/test/rizckgf2sjl5lpd2c3yn.jpg"
+    },
+    "quantity": 79,
+    "category": "6205fd7f3a1b1320b1c6b740",
+    "createdAt": "2022-02-15T09:50:46.314Z",
+    "updatedAt": "2022-06-09T17:35:27.515Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 8,
+    "_id": "620b774d3a1b1320b1c6b7b4",
+    "title": "Ariel kapsula 66",
+    "price": 161700,
+    "description": "66 dona",
+    "image": {
+      "public_id": "test/cdlg4iqqu5nm2ehlrnsy",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644918602/test/cdlg4iqqu5nm2ehlrnsy.jpg"
+    },
+    "quantity": 40,
+    "category": "6205fd7f3a1b1320b1c6b740",
+    "createdAt": "2022-02-15T09:50:05.823Z",
+    "updatedAt": "2022-05-22T10:14:01.329Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 6,
+    "_id": "620b76c73a1b1320b1c6b7b3",
+    "title": "Ariel kapsula 60",
+    "price": 150000,
+    "description": "60 dona",
+    "image": {
+      "public_id": "test/vcge6vaae4nvnhkaimv9",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644918457/test/vcge6vaae4nvnhkaimv9.jpg"
+    },
+    "quantity": 30,
+    "category": "6205fd7f3a1b1320b1c6b740",
+    "createdAt": "2022-02-15T09:47:51.035Z",
+    "updatedAt": "2022-04-30T22:58:45.432Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 8,
+    "_id": "620b768f3a1b1320b1c6b7b2",
+    "title": "Ariel kapsula 45",
+    "price": 117500,
+    "description": "45 dona",
+    "image": {
+      "public_id": "test/ea3gwo1uwbajydh9ugua",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644918413/test/ea3gwo1uwbajydh9ugua.jpg"
+    },
+    "quantity": 19,
+    "category": "6205fd7f3a1b1320b1c6b740",
+    "createdAt": "2022-02-15T09:46:55.770Z",
+    "updatedAt": "2022-05-19T18:20:24.434Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 1,
+    "_id": "620b75723a1b1320b1c6b7b0",
+    "title": "Ariel kapsula 26",
+    "price": 67500,
+    "description": "26 dona",
+    "image": {
+      "public_id": "test/wkbo4ym2g7bmbabnkmi9",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644918125/test/wkbo4ym2g7bmbabnkmi9.jpg"
+    },
+    "quantity": 20,
+    "category": "6205fd7f3a1b1320b1c6b740",
+    "createdAt": "2022-02-15T09:42:10.668Z",
+    "updatedAt": "2022-05-10T05:38:04.256Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 11,
+    "_id": "620b602d3a1b1320b1c6b7a8",
+    "title": "Eveline soft krem",
+    "price": 20000,
+    "description": "200 gr",
+    "image": {
+      "public_id": "test/gc2f9fsig7xqabmvvqgl",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644912669/test/gc2f9fsig7xqabmvvqgl.jpg"
+    },
+    "quantity": 0,
+    "category": "6224a0297a6e9364d6b15a13",
+    "createdAt": "2022-02-15T08:11:25.436Z",
+    "updatedAt": "2022-04-20T16:47:53.107Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "620b5f673a1b1320b1c6b7a6",
+    "title": "Belle jardin active white",
+    "price": 13500,
+    "description": "75 gr",
+    "image": {
+      "public_id": "test/e2u5uezz3aghrkgarf2w",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644912461/test/e2u5uezz3aghrkgarf2w.jpg"
+    },
+    "quantity": 19,
+    "category": "6224a0297a6e9364d6b15a13",
+    "createdAt": "2022-02-15T08:08:07.203Z",
+    "updatedAt": "2022-04-21T12:42:33.456Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "620b5da73a1b1320b1c6b7a4",
+    "title": "Belle jardin 125",
+    "price": 15900,
+    "description": "125 gr depilyator",
+    "image": {
+      "public_id": "test/gmqyexelrcftb0wn7hzb",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644912034/test/gmqyexelrcftb0wn7hzb.jpg"
+    },
+    "quantity": 30,
+    "category": "6224a0297a6e9364d6b15a13",
+    "createdAt": "2022-02-15T08:00:39.869Z",
+    "updatedAt": "2022-04-21T12:38:37.855Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 8,
+    "_id": "620b5d643a1b1320b1c6b7a3",
+    "title": "Belle Jardin 75",
+    "price": 10500,
+    "description": "75 gr depilyator",
+    "image": {
+      "public_id": "test/bj22so7pzqq3pglzuh4a",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644911939/test/bj22so7pzqq3pglzuh4a.jpg"
+    },
+    "quantity": 30,
+    "category": "6224a0297a6e9364d6b15a13",
+    "createdAt": "2022-02-15T07:59:32.954Z",
+    "updatedAt": "2022-04-21T12:40:05.495Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "620b4f103a1b1320b1c6b7a0",
+    "title": "Ring",
+    "price": 8500,
+    "description": "550 ml",
+    "image": {
+      "public_id": "test/vjjdqjgfahp0bszvdmzi",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644908296/test/vjjdqjgfahp0bszvdmzi.png"
+    },
+    "quantity": 48,
+    "category": "620b44d63a1b1320b1c6b798",
+    "createdAt": "2022-02-15T06:58:24.383Z",
+    "updatedAt": "2022-04-08T06:12:26.930Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 22,
+    "_id": "620b4a6d3a1b1320b1c6b79f",
+    "title": "Globus dezodarant",
+    "price": 13600,
+    "description": "",
+    "image": {
+      "public_id": "test/zvxtlwvnzkopwaaf2xhx",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1659117947/test/zvxtlwvnzkopwaaf2xhx.jpg"
+    },
+    "quantity": 1200,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-15T06:38:37.331Z",
+    "updatedAt": "2022-07-29T18:06:22.000Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "620b47b43a1b1320b1c6b79c",
+    "title": "HAYAT",
+    "price": 5000,
+    "description": "400 ml",
+    "image": {
+      "public_id": "test/l3w8brnquus5tldcdglp",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644906402/test/l3w8brnquus5tldcdglp.png"
+    },
+    "quantity": 0,
+    "category": "620b44d63a1b1320b1c6b798",
+    "createdAt": "2022-02-15T06:27:00.570Z",
+    "updatedAt": "2022-05-13T04:47:13.849Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 8,
+    "_id": "620b46033a1b1320b1c6b79b",
+    "title": "BBC",
+    "price": 5000,
+    "description": "400 ml",
+    "image": {
+      "public_id": "test/oedg4bedwbnui50dlbo0",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644905974/test/oedg4bedwbnui50dlbo0.jpg"
+    },
+    "quantity": 0,
+    "category": "620b44d63a1b1320b1c6b798",
+    "createdAt": "2022-02-15T06:19:47.639Z",
+    "updatedAt": "2022-03-16T09:44:32.313Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "620b458d3a1b1320b1c6b79a",
+    "title": "Carbon new york",
+    "price": 14500,
+    "description": "1200 ml",
+    "image": {
+      "public_id": "test/xszscxyhtv9lrg1mrokj",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645161283/test/xszscxyhtv9lrg1mrokj.png"
+    },
+    "quantity": 0,
+    "category": "620b44d63a1b1320b1c6b798",
+    "createdAt": "2022-02-15T06:17:49.649Z",
+    "updatedAt": "2022-03-16T09:44:43.258Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "620b455f3a1b1320b1c6b799",
+    "title": "Carbon olive oil",
+    "price": 23500,
+    "description": "1800 ml",
+    "image": {
+      "public_id": "test/nrzwsycub3qzn3ooyu0f",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645163731/test/nrzwsycub3qzn3ooyu0f.png"
+    },
+    "quantity": 0,
+    "category": "620b44d63a1b1320b1c6b798",
+    "createdAt": "2022-02-15T06:17:03.532Z",
+    "updatedAt": "2022-03-16T09:44:51.649Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 100,
+    "_id": "620b40d13a1b1320b1c6b795",
+    "title": "Head & shoulder",
+    "price": 31000,
+    "description": "400 ml",
+    "image": {
+      "public_id": "test/dgzsas3zoc0hcyxirvat",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644904610/test/dgzsas3zoc0hcyxirvat.jpg"
+    },
+    "quantity": 117,
+    "category": "61f504093a1b1320b1c6b6f1",
+    "createdAt": "2022-02-15T05:57:37.503Z",
+    "updatedAt": "2022-07-28T17:05:07.454Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 4,
+    "_id": "620b3b903a1b1320b1c6b794",
+    "title": "Utenok",
+    "price": 19000,
+    "description": "500 ml",
+    "image": {
+      "public_id": "test/j62cme2m5chrjewzbjwm",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644903261/test/j62cme2m5chrjewzbjwm.jpg"
+    },
+    "quantity": 86,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-02-15T05:35:12.090Z",
+    "updatedAt": "2022-05-26T06:14:59.024Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 10,
+    "_id": "620b3b003a1b1320b1c6b793",
+    "title": "Comet",
+    "price": 9000,
+    "description": "100 gr",
+    "image": {
+      "public_id": "test/eulrc4bhuyiaczmaqbpj",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644903160/test/eulrc4bhuyiaczmaqbpj.jpg"
+    },
+    "quantity": 235,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-02-15T05:32:48.713Z",
+    "updatedAt": "2022-05-19T18:20:24.434Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "620b2ea93a1b1320b1c6b790",
+    "title": "Secret stick",
+    "price": 26500,
+    "description": "40 gr",
+    "image": {
+      "public_id": "test/mwlsn0a1yz0zrvd9cdwg",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1649996250/test/mwlsn0a1yz0zrvd9cdwg.png"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-15T04:40:09.342Z",
+    "updatedAt": "2022-07-29T18:17:57.184Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 22,
+    "_id": "620b2e4e3a1b1320b1c6b78f",
+    "title": "Air time",
+    "price": 9000,
+    "description": "400 ml",
+    "image": {
+      "public_id": "test/jsblt4bl9snzaejv1d5x",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644899896/test/jsblt4bl9snzaejv1d5x.jpg"
+    },
+    "quantity": 50,
+    "category": "61fa601f3a1b1320b1c6b72d",
+    "createdAt": "2022-02-15T04:38:38.531Z",
+    "updatedAt": "2022-03-20T06:20:59.214Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "620a87873a1b1320b1c6b78d",
+    "title": "Secret sprey",
+    "price": 26500,
+    "description": "150 ml",
+    "image": {
+      "public_id": "test/jgsz4kemkhscwjwhzq5j",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644857139/test/jgsz4kemkhscwjwhzq5j.jpg"
+    },
+    "quantity": 96,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-14T16:47:03.792Z",
+    "updatedAt": "2022-07-29T18:17:15.158Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6209075e3a1b1320b1c6b781",
+    "title": "Shaffof",
+    "price": 3900,
+    "description": "",
+    "image": {
+      "public_id": "test/on7mpc1lkrj4duaqjbbi",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644758867/test/on7mpc1lkrj4duaqjbbi.png"
+    },
+    "quantity": 50,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-02-13T13:27:58.203Z",
+    "updatedAt": "2022-04-05T22:15:30.597Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 31,
+    "_id": "6208cb143a1b1320b1c6b779",
+    "title": "CIf 500",
+    "price": 13500,
+    "description": "500 ml",
+    "image": {
+      "public_id": "test/iykhxdejqrkivlz74rfl",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644743393/test/iykhxdejqrkivlz74rfl.jpg"
+    },
+    "quantity": 22,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-02-13T09:10:44.601Z",
+    "updatedAt": "2022-05-26T06:14:59.024Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 12,
+    "_id": "6208caab3a1b1320b1c6b778",
+    "title": "Calgon(15)",
+    "price": 27400,
+    "description": "Tabletka",
+    "image": {
+      "public_id": "test/bijjmuq84a9cxzirbx6x",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645089916/test/bijjmuq84a9cxzirbx6x.jpg"
+    },
+    "quantity": 44,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-02-13T09:08:59.937Z",
+    "updatedAt": "2022-06-03T05:44:35.451Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 18,
+    "_id": "6208ca503a1b1320b1c6b777",
+    "title": "Domestos(turkiya)",
+    "price": 14900,
+    "description": "750 gr",
+    "image": {
+      "public_id": "test/v3wk1fzkgnxn7bjcatlu",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644743247/test/v3wk1fzkgnxn7bjcatlu.jpg"
+    },
+    "quantity": 22,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-02-13T09:07:28.980Z",
+    "updatedAt": "2022-06-09T17:35:27.515Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6208c9f53a1b1320b1c6b776",
+    "title": "Johnson's baby 300",
+    "price": 25900,
+    "description": "300 gr",
+    "image": {
+      "public_id": "test/zdzzvsyxbyr9kbkk3xgw",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644743151/test/zdzzvsyxbyr9kbkk3xgw.jpg"
+    },
+    "quantity": 90,
+    "category": "6208c3223a1b1320b1c6b76e",
+    "createdAt": "2022-02-13T09:05:57.130Z",
+    "updatedAt": "2022-04-14T03:50:54.157Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6208c9c83a1b1320b1c6b775",
+    "title": "Johnson's baby 200",
+    "price": 16500,
+    "description": "200 gr",
+    "image": {
+      "public_id": "test/qtmvnlrj2smcevym9m9n",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644743109/test/qtmvnlrj2smcevym9m9n.jpg"
+    },
+    "quantity": 0,
+    "category": "6208c3223a1b1320b1c6b76e",
+    "createdAt": "2022-02-13T09:05:12.596Z",
+    "updatedAt": "2022-03-16T09:34:16.652Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 42,
+    "_id": "6208c97b3a1b1320b1c6b774",
+    "title": "Johnson's baby.",
+    "price": 9800,
+    "description": "100 gr",
+    "image": {
+      "public_id": "test/m7fbqczk46z7brbuo1wh",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644743003/test/m7fbqczk46z7brbuo1wh.jpg"
+    },
+    "quantity": 110,
+    "category": "6208c3223a1b1320b1c6b76e",
+    "createdAt": "2022-02-13T09:03:55.285Z",
+    "updatedAt": "2022-05-13T04:48:49.231Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 23,
+    "_id": "6208c9323a1b1320b1c6b773",
+    "title": "Johnson's baby",
+    "price": 5100,
+    "description": "50 gr",
+    "image": {
+      "public_id": "test/mwbbcxs7gp31vmqgkyex",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644742939/test/mwbbcxs7gp31vmqgkyex.jpg"
+    },
+    "quantity": 15,
+    "category": "6208c3223a1b1320b1c6b76e",
+    "createdAt": "2022-02-13T09:02:42.914Z",
+    "updatedAt": "2022-05-28T11:49:06.383Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6208c6f63a1b1320b1c6b771",
+    "title": "Johnson's baby shampun.",
+    "price": 27900,
+    "description": "500 ml",
+    "image": {
+      "public_id": "test/q1zkjxeux3lwzm9ioypa",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644742358/test/q1zkjxeux3lwzm9ioypa.jpg"
+    },
+    "quantity": 30,
+    "category": "6208c3223a1b1320b1c6b76e",
+    "createdAt": "2022-02-13T08:53:10.646Z",
+    "updatedAt": "2022-04-14T03:49:20.027Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 2,
+    "_id": "6208c61b3a1b1320b1c6b770",
+    "title": "Johnson's baby shampun",
+    "price": 18200,
+    "description": "300 ml",
+    "image": {
+      "public_id": "test/dyk47ym2awv1fexabjjs",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644742117/test/dyk47ym2awv1fexabjjs.jpg"
+    },
+    "quantity": 30,
+    "category": "6208c3223a1b1320b1c6b76e",
+    "createdAt": "2022-02-13T08:49:31.993Z",
+    "updatedAt": "2022-04-14T03:48:40.538Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 29,
+    "_id": "6208c5273a1b1320b1c6b76f",
+    "title": "Johnson baby 150 sovun",
+    "price": 6100,
+    "description": "150 gr",
+    "image": {
+      "public_id": "test/mn065tnonyjwbo3gtrup",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644741910/test/mn065tnonyjwbo3gtrup.jpg"
+    },
+    "quantity": 120,
+    "category": "6208c3223a1b1320b1c6b76e",
+    "createdAt": "2022-02-13T08:45:27.993Z",
+    "updatedAt": "2022-05-15T18:40:09.790Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 22,
+    "_id": "6208c1053a1b1320b1c6b76c",
+    "title": "Rakhsha(Eron)",
+    "price": 9000,
+    "description": "500 gr",
+    "image": {
+      "public_id": "test/buo3sqpxl5ziknqdnfah",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644740855/test/buo3sqpxl5ziknqdnfah.jpg"
+    },
+    "quantity": 110,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-02-13T08:27:49.477Z",
+    "updatedAt": "2022-05-26T06:14:59.024Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 45,
+    "_id": "6208c0d03a1b1320b1c6b76b",
+    "title": "Pemo luyks",
+    "price": 9000,
+    "description": "500 gr",
+    "image": {
+      "public_id": "test/xgwwvwnu01rttxgo3rpx",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644740798/test/xgwwvwnu01rttxgo3rpx.jpg"
+    },
+    "quantity": 105,
+    "category": "6208a2c43a1b1320b1c6b762",
+    "createdAt": "2022-02-13T08:26:56.193Z",
+    "updatedAt": "2022-06-09T17:35:27.515Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 29,
+    "_id": "6208a1ec3a1b1320b1c6b761",
+    "title": "Dely tilla maska",
+    "price": 16500,
+    "description": "Gold mask",
+    "image": {
+      "public_id": "test/rvcb1ugaqjhiw5ojwm4y",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644732858/test/rvcb1ugaqjhiw5ojwm4y.jpg"
+    },
+    "quantity": 117,
+    "category": "6205fd7f3a1b1320b1c6b740",
+    "createdAt": "2022-02-13T06:15:08.527Z",
+    "updatedAt": "2022-05-26T06:17:09.294Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 32,
+    "_id": "6208a1a63a1b1320b1c6b760",
+    "title": "Dely qora maska",
+    "price": 16500,
+    "description": "Black mask",
+    "image": {
+      "public_id": "test/pm3b7oq0oexbslgtaxjf",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644732768/test/pm3b7oq0oexbslgtaxjf.jpg"
+    },
+    "quantity": 116,
+    "category": "6205fd7f3a1b1320b1c6b740",
+    "createdAt": "2022-02-13T06:13:58.388Z",
+    "updatedAt": "2022-05-26T06:17:09.294Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 3,
+    "_id": "620895dc3a1b1320b1c6b75f",
+    "title": "Nivea stick",
+    "price": 28000,
+    "description": "40 gr",
+    "image": {
+      "public_id": "test/tltlh8ufs5dud80lehdv",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644729811/test/tltlh8ufs5dud80lehdv.jpg"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-13T05:23:40.014Z",
+    "updatedAt": "2022-07-29T18:16:47.697Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 4,
+    "_id": "6208941e3a1b1320b1c6b75d",
+    "title": "Rexona(women)",
+    "price": 20000,
+    "description": "40 gr",
+    "image": {
+      "public_id": "test/lvcztpd3yv1rm0xtzsdn",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1659118570/test/lvcztpd3yv1rm0xtzsdn.jpg"
+    },
+    "quantity": 600,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-13T05:16:14.181Z",
+    "updatedAt": "2022-07-29T18:16:25.765Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 16,
+    "_id": "620892ec3a1b1320b1c6b75b",
+    "title": "Old spice stick",
+    "price": 29000,
+    "description": "50 gr",
+    "image": {
+      "public_id": "test/upkh8xthahgubwzeobwf",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644729033/test/upkh8xthahgubwzeobwf.jpg"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-13T05:11:08.846Z",
+    "updatedAt": "2022-07-29T18:15:38.692Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 33,
+    "_id": "620790ec3a1b1320b1c6b753",
+    "title": "Savannah",
+    "price": 4500,
+    "description": "170 gr",
+    "image": {
+      "public_id": "test/qreswm1qtc8u9mgtl4ng",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644931221/test/qreswm1qtc8u9mgtl4ng.jpg"
+    },
+    "quantity": 0,
+    "category": "61f953c23a1b1320b1c6b71e",
+    "createdAt": "2022-02-12T10:50:20.802Z",
+    "updatedAt": "2022-03-16T09:05:50.406Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 99,
+    "_id": "620790a63a1b1320b1c6b752",
+    "title": "Royal(Malayziya)",
+    "price": 20000,
+    "description": "150 gr blokda 4 ta",
+    "image": {
+      "public_id": "test/zlt656utic7wtzzneqh3",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644662931/test/zlt656utic7wtzzneqh3.jpg"
+    },
+    "quantity": 220,
+    "category": "61f953c23a1b1320b1c6b71e",
+    "createdAt": "2022-02-12T10:49:10.829Z",
+    "updatedAt": "2022-06-03T05:44:35.448Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 2,
+    "_id": "620650623a1b1320b1c6b74f",
+    "title": "Evony XL",
+    "price": 165000,
+    "description": "4-Razmer",
+    "image": {
+      "public_id": "test/iiic87rtc0g71ttthrmo",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644580932/test/iiic87rtc0g71ttthrmo.jpg"
+    },
+    "quantity": 0,
+    "category": "61f63eba3a1b1320b1c6b6f9",
+    "createdAt": "2022-02-11T12:02:42.105Z",
+    "updatedAt": "2022-07-29T18:35:02.910Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 3,
+    "_id": "62064f8c3a1b1320b1c6b74e",
+    "title": "Evony L",
+    "price": 147000,
+    "description": "3-Razmer",
+    "image": {
+      "public_id": "test/vuoc36wqod9p21px3agk",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644580723/test/vuoc36wqod9p21px3agk.jpg"
+    },
+    "quantity": 0,
+    "category": "61f63eba3a1b1320b1c6b6f9",
+    "createdAt": "2022-02-11T11:59:08.412Z",
+    "updatedAt": "2022-07-29T18:35:11.064Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 1,
+    "_id": "62064f533a1b1320b1c6b74d",
+    "title": "Evony M",
+    "price": 135000,
+    "description": "2-Razmer",
+    "image": {
+      "public_id": "test/tle6oetsxrjssadnlfkk",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644580684/test/tle6oetsxrjssadnlfkk.jpg"
+    },
+    "quantity": 20,
+    "category": "61f63eba3a1b1320b1c6b6f9",
+    "createdAt": "2022-02-11T11:58:11.412Z",
+    "updatedAt": "2022-05-21T07:23:11.375Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 3,
+    "_id": "620628c13a1b1320b1c6b747",
+    "title": "Vizir 43",
+    "price": 105000,
+    "description": "43 talik",
+    "image": {
+      "public_id": "test/gatbryrgu33vzokyg1u5",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1653200364/test/gatbryrgu33vzokyg1u5.jpg"
+    },
+    "quantity": 19,
+    "category": "6205fd7f3a1b1320b1c6b740",
+    "createdAt": "2022-02-11T09:13:37.414Z",
+    "updatedAt": "2022-05-26T06:17:09.294Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 15,
+    "_id": "620609693a1b1320b1c6b743",
+    "title": "Pro series",
+    "price": 31000,
+    "description": "500 ml",
+    "image": {
+      "public_id": "test/l8duxdutcicvx5c1ehby",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644562782/test/l8duxdutcicvx5c1ehby.jpg"
+    },
+    "quantity": 15,
+    "category": "61f504093a1b1320b1c6b6f1",
+    "createdAt": "2022-02-11T06:59:53.660Z",
+    "updatedAt": "2022-07-30T08:57:14.724Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 16,
+    "_id": "620600183a1b1320b1c6b742",
+    "title": "Deonica",
+    "price": 21500,
+    "description": "200 ml",
+    "image": {
+      "public_id": "test/fqum1xjuupeg2y4dfs6w",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644856269/test/fqum1xjuupeg2y4dfs6w.jpg"
+    },
+    "quantity": 1200,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-11T06:20:08.023Z",
+    "updatedAt": "2022-07-29T18:01:53.963Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 14,
+    "_id": "6205fb173a1b1320b1c6b73e",
+    "title": "Lenor",
+    "price": 22000,
+    "description": "1000 ml",
+    "image": {
+      "public_id": "test/owkywoqsdykm9r68il8d",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644559112/test/owkywoqsdykm9r68il8d.jpg"
+    },
+    "quantity": 108,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-02-11T05:58:47.457Z",
+    "updatedAt": "2022-05-06T04:22:58.033Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 12,
+    "_id": "6205faf33a1b1320b1c6b73d",
+    "title": "Vernel",
+    "price": 23000,
+    "description": "900 ml",
+    "image": {
+      "public_id": "test/osimetean2e4wwssezzs",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644559070/test/osimetean2e4wwssezzs.jpg"
+    },
+    "quantity": 30,
+    "category": "6205f6763a1b1320b1c6b73a",
+    "createdAt": "2022-02-11T05:58:11.368Z",
+    "updatedAt": "2022-05-13T17:09:51.133Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 12,
+    "_id": "6205f3373a1b1320b1c6b739",
+    "title": "Old spice spray",
+    "price": 22500,
+    "description": "150 ml",
+    "image": {
+      "public_id": "test/lkcbunzbpnqlade5s6gi",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644856761/test/lkcbunzbpnqlade5s6gi.jpg"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-11T05:25:11.045Z",
+    "updatedAt": "2022-07-29T18:14:44.985Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 8,
+    "_id": "6205f1fe3a1b1320b1c6b737",
+    "title": "Rexona 200",
+    "price": 21000,
+    "description": "200 ml",
+    "image": {
+      "public_id": "test/pnhz91iptsqoyvdmvltz",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644556774/test/pnhz91iptsqoyvdmvltz.png"
+    },
+    "quantity": 600,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-11T05:19:58.891Z",
+    "updatedAt": "2022-07-29T18:14:32.291Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 12,
+    "_id": "6205f1c93a1b1320b1c6b736",
+    "title": "Rexona(women)spray",
+    "price": 13500,
+    "description": "150 ml",
+    "image": {
+      "public_id": "test/ldlmlmgdqo2cro8pfq5j",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644730847/test/ldlmlmgdqo2cro8pfq5j.jpg"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-11T05:19:05.330Z",
+    "updatedAt": "2022-07-29T18:13:55.385Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "6205f1873a1b1320b1c6b735",
+    "title": "Nivea(men) spray",
+    "price": 24000,
+    "description": "150 ml",
+    "image": {
+      "public_id": "test/zztigzcrfeqsxgpriqyu",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644556645/test/zztigzcrfeqsxgpriqyu.jpg"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-11T05:17:59.056Z",
+    "updatedAt": "2022-07-29T18:13:42.531Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 94,
+    "_id": "6205f0df3a1b1320b1c6b734",
+    "title": "Nivea(women)",
+    "price": 24500,
+    "description": "150 ml",
+    "image": {
+      "public_id": "test/jbfqi7qr7a3gwuzobct4",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644730610/test/jbfqi7qr7a3gwuzobct4.jpg"
+    },
+    "quantity": 0,
+    "category": "6205f05f3a1b1320b1c6b733",
+    "createdAt": "2022-02-11T05:15:11.839Z",
+    "updatedAt": "2022-07-29T18:13:14.026Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 43,
+    "_id": "62026e9d3a1b1320b1c6b731",
+    "title": "Dove 135",
+    "price": 7600,
+    "description": "135 gr",
+    "image": {
+      "public_id": "test/cg8zrctilvoujr5odqos",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645460300/test/cg8zrctilvoujr5odqos.png"
+    },
+    "quantity": 0,
+    "category": "61f953c23a1b1320b1c6b71e",
+    "createdAt": "2022-02-08T13:22:37.793Z",
+    "updatedAt": "2022-05-29T15:59:13.768Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 159,
+    "_id": "62026e723a1b1320b1c6b730",
+    "title": "Dove 100",
+    "price": 5700,
+    "description": "100 gr",
+    "image": {
+      "public_id": "test/vwz2148lhbzwjjizcxll",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644326493/test/vwz2148lhbzwjjizcxll.jpg"
+    },
+    "quantity": 0,
+    "category": "61f953c23a1b1320b1c6b71e",
+    "createdAt": "2022-02-08T13:21:54.465Z",
+    "updatedAt": "2022-06-03T05:33:08.713Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 246,
+    "_id": "62026dcd3a1b1320b1c6b72e",
+    "title": "Fa",
+    "price": 6600,
+    "description": "175 gr",
+    "image": {
+      "public_id": "test/cyjeqzrhqkdq2ofolels",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644326332/test/cyjeqzrhqkdq2ofolels.jpg"
+    },
+    "quantity": 107,
+    "category": "61f953c23a1b1320b1c6b71e",
+    "createdAt": "2022-02-08T13:19:09.739Z",
+    "updatedAt": "2022-06-06T17:50:32.752Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 11,
+    "_id": "61fa5e1f3a1b1320b1c6b72c",
+    "title": "Lody Turkiya",
+    "price": 10500,
+    "description": "Rose,Aloe,Sensetive",
+    "image": {
+      "public_id": "test/boaalt0adogbfri44p1t",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1653064515/test/boaalt0adogbfri44p1t.png"
+    },
+    "quantity": 120,
+    "category": "61fa46423a1b1320b1c6b722",
+    "createdAt": "2022-02-02T10:34:07.143Z",
+    "updatedAt": "2022-05-20T16:35:41.261Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "61fa48683a1b1320b1c6b727",
+    "title": "Holder52",
+    "price": 13000,
+    "description": "52 dona",
+    "image": {
+      "public_id": "test/ranjr8xkbgfbsma3wckc",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643792482/test/ranjr8xkbgfbsma3wckc.jpg"
+    },
+    "quantity": 12,
+    "category": "61fa46423a1b1320b1c6b722",
+    "createdAt": "2022-02-02T09:01:28.703Z",
+    "updatedAt": "2022-03-29T16:41:47.558Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 25,
+    "_id": "61fa47d93a1b1320b1c6b726",
+    "title": "O'nlem120",
+    "price": 18500,
+    "description": "120 dona",
+    "image": {
+      "public_id": "test/a0toefczr8kxkoc84pbt",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643792339/test/a0toefczr8kxkoc84pbt.jpg"
+    },
+    "quantity": 36,
+    "category": "61fa46423a1b1320b1c6b722",
+    "createdAt": "2022-02-02T08:59:05.206Z",
+    "updatedAt": "2022-03-23T14:42:40.357Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 21,
+    "_id": "61fa47a93a1b1320b1c6b725",
+    "title": "O'nlem90",
+    "price": 13800,
+    "description": "90 dona",
+    "image": {
+      "public_id": "test/r9n0d7au6bxfopnr2zdz",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643792290/test/r9n0d7au6bxfopnr2zdz.png"
+    },
+    "quantity": 35,
+    "category": "61fa46423a1b1320b1c6b722",
+    "createdAt": "2022-02-02T08:58:17.822Z",
+    "updatedAt": "2022-04-20T09:56:33.526Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 21,
+    "_id": "61fa47713a1b1320b1c6b724",
+    "title": "O'nlem65",
+    "price": 10800,
+    "description": "65 dona",
+    "image": {
+      "public_id": "test/vpzjhmkylcn2wfyqpr8n",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643792194/test/vpzjhmkylcn2wfyqpr8n.jpg"
+    },
+    "quantity": 35,
+    "category": "61fa46423a1b1320b1c6b722",
+    "createdAt": "2022-02-02T08:57:21.539Z",
+    "updatedAt": "2022-04-20T09:56:33.526Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 36,
+    "_id": "61f957a83a1b1320b1c6b721",
+    "title": "Palmolive",
+    "price": 7250,
+    "description": "170 gr",
+    "image": {
+      "public_id": "test/wjsqibm5wlozflo47amw",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643730851/test/wjsqibm5wlozflo47amw.jpg"
+    },
+    "quantity": 113,
+    "category": "61f953c23a1b1320b1c6b71e",
+    "createdAt": "2022-02-01T15:54:16.676Z",
+    "updatedAt": "2022-06-03T05:44:35.452Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 151,
+    "_id": "61f956453a1b1320b1c6b720",
+    "title": "Camay",
+    "price": 24000,
+    "description": "170 gr blokda 4 ta",
+    "image": {
+      "public_id": "test/cw8qz3zbzkcgozgbmq6y",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643730484/test/cw8qz3zbzkcgozgbmq6y.jpg"
+    },
+    "quantity": 233,
+    "category": "61f953c23a1b1320b1c6b71e",
+    "createdAt": "2022-02-01T15:48:21.784Z",
+    "updatedAt": "2022-06-09T17:35:27.515Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 28,
+    "_id": "61f954683a1b1320b1c6b71f",
+    "title": "LUX",
+    "price": 7100,
+    "description": "170 gr",
+    "image": {
+      "public_id": "test/spbclp6ip3jocoay03id",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643729988/test/spbclp6ip3jocoay03id.jpg"
+    },
+    "quantity": 0,
+    "category": "61f953c23a1b1320b1c6b71e",
+    "createdAt": "2022-02-01T15:40:24.627Z",
+    "updatedAt": "2022-05-29T16:02:10.562Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 52,
+    "_id": "61f670b73a1b1320b1c6b70c",
+    "title": "Garnier fructis",
+    "price": 27000,
+    "description": "400 ml",
+    "image": {
+      "public_id": "test/zmnztzclhnwyeshmmldj",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643540639/test/zmnztzclhnwyeshmmldj.jpg"
+    },
+    "quantity": 0,
+    "category": "61f504093a1b1320b1c6b6f1",
+    "createdAt": "2022-01-30T11:04:23.947Z",
+    "updatedAt": "2022-07-29T18:33:21.912Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 23,
+    "_id": "61f66fb13a1b1320b1c6b70b",
+    "title": "Pantene(kichik)",
+    "price": 19500,
+    "description": "200ml",
+    "image": {
+      "public_id": "test/w5ngjctzpmb4ephxif5n",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643540378/test/w5ngjctzpmb4ephxif5n.jpg"
+    },
+    "quantity": 13,
+    "category": "61f504093a1b1320b1c6b6f1",
+    "createdAt": "2022-01-30T11:00:01.935Z",
+    "updatedAt": "2022-07-30T08:57:14.724Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 23,
+    "_id": "61f66f163a1b1320b1c6b70a",
+    "title": "Pantene 400",
+    "price": 29000,
+    "description": "400 ml",
+    "image": {
+      "public_id": "test/y1ehqtjzpkjqf0te6wub",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643540241/test/y1ehqtjzpkjqf0te6wub.jpg"
+    },
+    "quantity": 120,
+    "category": "61f504093a1b1320b1c6b6f1",
+    "createdAt": "2022-01-30T10:57:26.091Z",
+    "updatedAt": "2022-05-20T16:28:51.044Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 11,
+    "_id": "61f4d9233a1b1320b1c6b6ed",
+    "title": "Persil 3",
+    "price": 63000,
+    "description": "3 kg",
+    "image": {
+      "public_id": "test/eosy7wknsy3ypd4ihukw",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643436320/test/eosy7wknsy3ypd4ihukw.jpg"
+    },
+    "quantity": 0,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T06:05:23.189Z",
+    "updatedAt": "2022-07-29T17:52:59.664Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 51,
+    "_id": "61f4d7fe3a1b1320b1c6b6eb",
+    "title": "Tide 450",
+    "price": 12400,
+    "description": "450 gr",
+    "image": {
+      "public_id": "test/dxjdrep9gmufvzrv4olg",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643436012/test/dxjdrep9gmufvzrv4olg.jpg"
+    },
+    "quantity": 0,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T06:00:30.851Z",
+    "updatedAt": "2022-07-29T18:31:16.323Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 33,
+    "_id": "61f4d7d43a1b1320b1c6b6ea",
+    "title": "Tide 3",
+    "price": 57700,
+    "description": "3 kg",
+    "image": {
+      "public_id": "test/sfaluo4exxlan58kxpif",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643435984/test/sfaluo4exxlan58kxpif.jpg"
+    },
+    "quantity": 117,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T05:59:48.734Z",
+    "updatedAt": "2022-07-29T10:04:29.676Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 0,
+    "_id": "61f4d7273a1b1320b1c6b6e9",
+    "title": "Tide 6",
+    "price": 108000,
+    "description": "6 kg",
+    "image": {
+      "public_id": "test/wki8k09ko3k83sjumtea",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643435811/test/wki8k09ko3k83sjumtea.jpg"
+    },
+    "quantity": 30,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T05:56:55.403Z",
+    "updatedAt": "2022-07-28T16:50:00.578Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 1,
+    "_id": "61f4d6fd3a1b1320b1c6b6e8",
+    "title": "Tide 9",
+    "price": 158000,
+    "description": "9 kg",
+    "image": {
+      "public_id": "test/d5sa2ay7bouodq2kn99a",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643435742/test/d5sa2ay7bouodq2kn99a.jpg"
+    },
+    "quantity": 10,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T05:56:13.722Z",
+    "updatedAt": "2022-04-16T04:12:46.332Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 16,
+    "_id": "61f4cec63a1b1320b1c6b6e3",
+    "title": "Ariel 9",
+    "price": 172000,
+    "description": "9 kg",
+    "image": {
+      "public_id": "test/bxgqavqb5mrtuzdpbipr",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643433665/test/bxgqavqb5mrtuzdpbipr.jpg"
+    },
+    "quantity": 49,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T05:21:10.315Z",
+    "updatedAt": "2022-06-06T17:50:32.752Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 8,
+    "_id": "61f4ccf83a1b1320b1c6b6e2",
+    "title": "Ariel 6",
+    "price": 118000,
+    "description": "6 kg",
+    "image": {
+      "public_id": "test/pdwfpbngf7dl4l0capnm",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643433203/test/pdwfpbngf7dl4l0capnm.jpg"
+    },
+    "quantity": 50,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T05:13:28.413Z",
+    "updatedAt": "2022-07-30T02:55:08.417Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 129,
+    "_id": "61f4cc873a1b1320b1c6b6e1",
+    "title": "Ariel 3",
+    "price": 62500,
+    "description": "3 kg",
+    "image": {
+      "public_id": "test/oh8cp60qnueci0hsubuj",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643433089/test/oh8cp60qnueci0hsubuj.jpg"
+    },
+    "quantity": 1200,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T05:11:35.055Z",
+    "updatedAt": "2022-07-30T02:55:48.633Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 11,
+    "_id": "61f4cc4a3a1b1320b1c6b6e0",
+    "title": "Ariel 1,5",
+    "price": 28500,
+    "description": "Turkya",
+    "image": {
+      "public_id": "test/ucoiuy2nlxykeulohjkv",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643433032/test/ucoiuy2nlxykeulohjkv.jpg"
+    },
+    "quantity": 100,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T05:10:34.898Z",
+    "updatedAt": "2022-07-30T02:56:44.867Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 121,
+    "_id": "61f4cc093a1b1320b1c6b6df",
+    "title": "Ariel 450(avtomat)",
+    "price": 14800,
+    "description": "450 gr",
+    "image": {
+      "public_id": "test/ltpldyqs3wgtbik0ethn",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643432919/test/ltpldyqs3wgtbik0ethn.jpg"
+    },
+    "quantity": 222,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T05:09:29.156Z",
+    "updatedAt": "2022-05-19T06:06:51.072Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 1546,
+    "_id": "61f4cb9e3a1b1320b1c6b6de",
+    "title": "Mif 400gr",
+    "price": 7500,
+    "description": "400gr",
+    "image": {
+      "public_id": "test/osb2v0aa728uphg7l8bh",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643432852/test/osb2v0aa728uphg7l8bh.jpg"
+    },
+    "quantity": 634,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T05:07:42.298Z",
+    "updatedAt": "2022-06-09T17:35:27.515Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 26,
+    "_id": "61f4cb3b3a1b1320b1c6b6dd",
+    "title": "Mif 1.8kg",
+    "price": 29500,
+    "description": "1.8 kg",
+    "image": {
+      "public_id": "test/j77jp75jb7xfugs699oc",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643432759/test/j77jp75jb7xfugs699oc.jpg"
+    },
+    "quantity": 80,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T05:06:03.690Z",
+    "updatedAt": "2022-05-01T19:53:24.283Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 39,
+    "_id": "61f4c9f83a1b1320b1c6b6dc",
+    "title": "Mif 2",
+    "price": 33000,
+    "description": "2 kg",
+    "image": {
+      "public_id": "test/se6vlavpkc2exsdzlyxi",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643432413/test/se6vlavpkc2exsdzlyxi.jpg"
+    },
+    "quantity": 311,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T05:00:40.845Z",
+    "updatedAt": "2022-06-09T17:35:27.515Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 10,
+    "_id": "61f4c9c43a1b1320b1c6b6db",
+    "title": "Mif 4",
+    "price": 63000,
+    "description": "4 kg",
+    "image": {
+      "public_id": "test/lfe90xn2ifdqqtj8eteb",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643432385/test/lfe90xn2ifdqqtj8eteb.jpg"
+    },
+    "quantity": 20,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T04:59:48.984Z",
+    "updatedAt": "2022-05-22T06:08:48.273Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 11,
+    "_id": "61f4c9773a1b1320b1c6b6d9",
+    "title": "MIf 6",
+    "price": 92000,
+    "description": "6 kg",
+    "image": {
+      "public_id": "test/bgvwipbovuj1bjc4ld9u",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643432160/test/bgvwipbovuj1bjc4ld9u.jpg"
+    },
+    "quantity": 10,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T04:58:31.786Z",
+    "updatedAt": "2022-05-22T06:08:11.579Z",
+    "__v": 0
+  },
+  {
+    "checked": false,
+    "sold": 9,
+    "_id": "61f4c8a13a1b1320b1c6b6d8",
+    "title": "Mif 9kg",
+    "price": 132000,
+    "description": "9 kg",
+    "image": {
+      "public_id": "test/alsyvscijcbissk2hv0i",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643431964/test/alsyvscijcbissk2hv0i.jpg"
+    },
+    "quantity": 20,
+    "category": "61f3b6003a1b1320b1c6b6d7",
+    "createdAt": "2022-01-29T04:54:57.728Z",
+    "updatedAt": "2022-07-30T02:57:26.914Z",
+    "__v": 0
+  }
+]

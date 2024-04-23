@@ -1,0 +1,255 @@
+[
+  {
+    "_id": "61f953c23a1b1320b1c6b71e",
+    "name": "Sovunlar",
+    "image": {
+      "public_id": "test/uc7weucjpvk7toma5px3",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643729853/test/uc7weucjpvk7toma5px3.jpg"
+    },
+    "createdAt": "2022-02-01T15:37:38.658Z",
+    "updatedAt": "2022-02-01T15:37:38.658Z",
+    "__v": 0
+  },
+  {
+    "_id": "61fa46423a1b1320b1c6b722",
+    "name": "Salfetkalar",
+    "image": {
+      "public_id": "test/lezced3qi6br5cbglwrj",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643791933/test/lezced3qi6br5cbglwrj.jpg"
+    },
+    "createdAt": "2022-02-02T08:52:18.469Z",
+    "updatedAt": "2022-02-02T08:52:18.469Z",
+    "__v": 0
+  },
+  {
+    "_id": "6208a2c43a1b1320b1c6b762",
+    "name": "Uy gigiyenik mahsulotlari",
+    "image": {
+      "public_id": "test/utevhpslsm41ithoh92q",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644733105/test/utevhpslsm41ithoh92q.jpg"
+    },
+    "createdAt": "2022-02-13T06:18:44.960Z",
+    "updatedAt": "2022-03-12T08:39:44.436Z",
+    "__v": 0
+  },
+  {
+    "_id": "6214abb63a1b1320b1c6b80d",
+    "name": "Balzamlar",
+    "image": {
+      "public_id": "test/ng8gxlxbqglkprnnyiek",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645521836/test/ng8gxlxbqglkprnnyiek.jpg"
+    },
+    "createdAt": "2022-02-22T09:24:06.265Z",
+    "updatedAt": "2022-02-22T09:24:06.265Z",
+    "__v": 0
+  },
+  {
+    "_id": "61f3b6003a1b1320b1c6b6d7",
+    "name": "Kir yuvish kukunlari",
+    "image": {
+      "public_id": "test/qe3qzeuq02z4vwxfqogt",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645178078/test/qe3qzeuq02z4vwxfqogt.jpg"
+    },
+    "createdAt": "2022-01-28T09:23:12.128Z",
+    "updatedAt": "2022-04-25T16:27:29.340Z",
+    "__v": 0
+  },
+  {
+    "_id": "61f50dcc3a1b1320b1c6b6f4",
+    "name": "Tish pasta",
+    "image": {
+      "public_id": "test/ljspzczii6pys4wntqta",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643449799/test/ljspzczii6pys4wntqta.jpg"
+    },
+    "createdAt": "2022-01-29T09:50:04.128Z",
+    "updatedAt": "2022-01-29T09:50:04.128Z",
+    "__v": 0
+  },
+  {
+    "_id": "6205f05f3a1b1320b1c6b733",
+    "name": "Dezodarantlar",
+    "image": {
+      "public_id": "test/r8vnrvvwyv7mqse5pur5",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646578346/test/r8vnrvvwyv7mqse5pur5.jpg"
+    },
+    "createdAt": "2022-02-11T05:13:03.569Z",
+    "updatedAt": "2022-05-13T17:07:47.221Z",
+    "__v": 0
+  },
+  {
+    "_id": "620b44d63a1b1320b1c6b798",
+    "name": "Arzon shampun",
+    "image": {
+      "public_id": "test/cozr2pk4engukwuudkak",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644905683/test/cozr2pk4engukwuudkak.jpg"
+    },
+    "createdAt": "2022-02-15T06:14:46.377Z",
+    "updatedAt": "2022-02-15T06:14:46.377Z",
+    "__v": 0
+  },
+  {
+    "_id": "621b03aa7a6e9364d6b159db",
+    "name": "Gupka va lattalar",
+    "image": {
+      "public_id": "test/csnz9jnsqnpje9dg6gek",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645937516/test/csnz9jnsqnpje9dg6gek.jpg"
+    },
+    "createdAt": "2022-02-27T04:52:58.434Z",
+    "updatedAt": "2022-02-27T04:52:58.434Z",
+    "__v": 0
+  },
+  {
+    "_id": "6217362d1bbcb33e77072b3f",
+    "name": "Atirlar",
+    "image": {
+      "public_id": "test/sok0jl3wta4n7klcxrrn",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645688359/test/sok0jl3wta4n7klcxrrn.jpg"
+    },
+    "createdAt": "2022-02-24T07:39:25.818Z",
+    "updatedAt": "2022-02-24T07:39:25.818Z",
+    "__v": 0
+  },
+  {
+    "_id": "61fa601f3a1b1320b1c6b72d",
+    "name": "Osvejetillar",
+    "image": {
+      "public_id": "test/rp39ki4xqnot0eylqf3t",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643798371/test/rp39ki4xqnot0eylqf3t.jpg"
+    },
+    "createdAt": "2022-02-02T10:42:39.548Z",
+    "updatedAt": "2022-05-13T17:08:30.858Z",
+    "__v": 0
+  },
+  {
+    "_id": "61f504093a1b1320b1c6b6f1",
+    "name": "Shampun",
+    "image": {
+      "public_id": "test/w0pz6mnk9vmzyje8ooxh",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643447300/test/w0pz6mnk9vmzyje8ooxh.jpg"
+    },
+    "createdAt": "2022-01-29T09:08:25.691Z",
+    "updatedAt": "2022-01-29T09:08:25.691Z",
+    "__v": 0
+  },
+  {
+    "_id": "6205fd7f3a1b1320b1c6b740",
+    "name": "Kapsula mahsulotlari",
+    "image": {
+      "public_id": "test/d2ps5dug40h7dz7se5kp",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1650473068/test/d2ps5dug40h7dz7se5kp.jpg"
+    },
+    "createdAt": "2022-02-11T06:09:03.509Z",
+    "updatedAt": "2022-04-20T16:44:42.961Z",
+    "__v": 0
+  },
+  {
+    "_id": "6208c3223a1b1320b1c6b76e",
+    "name": "Bolalar mahsulotlari",
+    "image": {
+      "public_id": "test/vm2mfr6pp5bswzyvq86o",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644741407/test/vm2mfr6pp5bswzyvq86o.jpg"
+    },
+    "createdAt": "2022-02-13T08:36:50.414Z",
+    "updatedAt": "2022-02-13T08:36:50.414Z",
+    "__v": 0
+  },
+  {
+    "_id": "6224a0297a6e9364d6b15a13",
+    "name": "Kremlar",
+    "image": {
+      "public_id": "test/ettucskjywtetlqmzbo5",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646567459/test/ettucskjywtetlqmzbo5.jpg"
+    },
+    "createdAt": "2022-03-06T11:51:05.172Z",
+    "updatedAt": "2022-03-06T11:51:05.172Z",
+    "__v": 0
+  },
+  {
+    "_id": "6224a5cc7a6e9364d6b15a14",
+    "name": "Rulon va salfetkalar",
+    "image": {
+      "public_id": "test/v1jcrnxbtfdja8wzx6de",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646578682/test/v1jcrnxbtfdja8wzx6de.jpg"
+    },
+    "createdAt": "2022-03-06T12:15:08.673Z",
+    "updatedAt": "2022-03-06T14:58:05.658Z",
+    "__v": 0
+  },
+  {
+    "_id": "625a45bc7a6e9364d6b15a98",
+    "name": "Rio Sunlight group",
+    "image": {
+      "public_id": "test/dxjxxb8rrzilddmbse7o",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1650083241/test/dxjxxb8rrzilddmbse7o.png"
+    },
+    "createdAt": "2022-04-16T04:27:40.729Z",
+    "updatedAt": "2022-04-16T04:27:40.729Z",
+    "__v": 0
+  },
+  {
+    "_id": "61f63eba3a1b1320b1c6b6f9",
+    "name": "Pampers",
+    "image": {
+      "public_id": "test/d0ntbg0y0mc4gcswz7vh",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1643527857/test/d0ntbg0y0mc4gcswz7vh.jpg"
+    },
+    "createdAt": "2022-01-30T07:31:06.506Z",
+    "updatedAt": "2022-01-30T07:31:06.506Z",
+    "__v": 0
+  },
+  {
+    "_id": "6205f6763a1b1320b1c6b73a",
+    "name": "Yuvish mahsulotlari",
+    "image": {
+      "public_id": "test/oukdwftem7kf8auvfbvh",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1644557932/test/oukdwftem7kf8auvfbvh.jpg"
+    },
+    "createdAt": "2022-02-11T05:39:02.156Z",
+    "updatedAt": "2022-04-25T16:39:27.975Z",
+    "__v": 0
+  },
+  {
+    "_id": "620f69163a1b1320b1c6b7d0",
+    "name": "Ayollar gigiyenik mahsulotlari",
+    "image": {
+      "public_id": "test/ap5vovukxntounenulyb",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645177108/test/ap5vovukxntounenulyb.jpg"
+    },
+    "createdAt": "2022-02-18T09:38:30.874Z",
+    "updatedAt": "2022-02-18T09:38:30.874Z",
+    "__v": 0
+  },
+  {
+    "_id": "621e0f6c7a6e9364d6b159e9",
+    "name": "Apteka mahsulotlari",
+    "image": {
+      "public_id": "test/b6msvpu9zk9ysh4o6wcc",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1646137179/test/b6msvpu9zk9ysh4o6wcc.png"
+    },
+    "createdAt": "2022-03-01T12:19:56.528Z",
+    "updatedAt": "2022-03-01T12:19:56.528Z",
+    "__v": 0
+  },
+  {
+    "_id": "62e4254f967f3022a2532962",
+    "name": "Suyuq parashoklar",
+    "image": {
+      "public_id": "test/p1qwndtkwqt7fv6g20ty",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1659118918/test/p1qwndtkwqt7fv6g20ty.jpg"
+    },
+    "createdAt": "2022-07-29T18:22:07.556Z",
+    "updatedAt": "2022-07-29T18:22:07.556Z",
+    "__v": 0
+  },
+  {
+    "_id": "62170a7d1bbcb33e77072b2f",
+    "name": "Soqol olish mahsulotlari",
+    "image": {
+      "public_id": "test/tclrasnplevddstoiutx",
+      "url": "https://res.cloudinary.com/ddegkqlmz/image/upload/v1645677178/test/tclrasnplevddstoiutx.jpg"
+    },
+    "createdAt": "2022-02-24T04:33:01.924Z",
+    "updatedAt": "2022-02-24T04:33:01.924Z",
+    "__v": 0
+  }
+]
